@@ -1,0 +1,43 @@
+This directory contains results of PSI-BLAST query that uses the protein sequence of every ORF in S.cerevisiae to query NCBI's non-redundant(nr) protein dataset.
+
+PSI-BLAST results for individual genes can be viewed by accessing the 'PSI-BLAST Results' link in the Comparison Resources pull-down menu of each SGD Locus Page.
+
+The analysis is described in detail at:
+http://www.yeastgenome.org/help/SeqSimQuery.html
+
+===============
+psi_blast.tab
+================
+This file was generated on 11-02-2004.
+
+The columns of this tab-delimited file contain the following information:
+
+1) S. cerevisiae systematic name 
+
+2) start coordinate (amino acid position) of aligned region of query
+sequence (S. cerevisiae protein sequence)
+
+3) stop coordinate (amino acid position) of aligned region of query
+sequence (S. cerevisiae protein sequence)
+
+4) start coordinate (amino acid position) of aligned region of target
+sequence
+
+5) stop coordinate (amino acid position) of aligned region of target
+sequence
+
+6) percent aligned (percent of the length of the query gene contained
+in the aligned region)
+
+7) score (natural log value of the Expectation value)
+
+8) target identifier 
+
+9) taxon id for species of origin of target sequence
+
+10) species name for species of origin of target sequence
+
+============================================================
+
+If you have any questions, please contact:
+yeast-curator@genome.stanford.edu 

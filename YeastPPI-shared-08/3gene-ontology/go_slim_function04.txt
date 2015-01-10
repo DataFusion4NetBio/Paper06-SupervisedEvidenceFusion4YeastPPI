@@ -1,0 +1,29 @@
+!version: $Revision: 1.1 $
+!GO_slim_name: yeast go_slim
+!GO_slim_version: 1.0
+!GO_slim_date: Fri Sep 03 16:32:00 BST 2004
+!GO_slim_authors: SGD curators
+!GO_slim_author_contact: yeast-curator@genome.stanford.edu
+!molecular_function ; GO:0003674
+DNA binding ; GO:0003677
+enzyme regulator activity ; GO:0030234 ; synonym:enzyme modulator
+helicase activity ; GO:0004386 ; Reactome:109879 ; Reactome:111307 ; Reactome:117604 ; Reactome:117605 ; Reactome:120688 ; Reactome:72598 ; Reactome:72599
+hydrolase activity ; GO:0016787 ; EC:3.-.-.-
+peptidase activity ; GO:0008233 ; EC:3.4.-.- ; synonym:hydrolase\, acting on peptide bonds ; synonym:peptide hydrolase ; synonym:protease
+isomerase activity ; GO:0016853 ; EC:5.-.-.-
+ligase activity ; GO:0016874 ; EC:6.-.-.-
+lyase activity ; GO:0016829 ; EC:4.-.-.-
+molecular_function unknown ; GO:0005554
+motor activity ; GO:0003774
+oxidoreductase activity ; GO:0016491 ; EC:1.-.-.- ; synonym:redox activity
+phosphoprotein phosphatase activity ; GO:0004721 ; EC:3.1.3.16 ; MetaCyc:3.1.3.16-RXN ; Reactome:113432 ; Reactome:113757 ; Reactome:115322 ; Reactome:115328 ; Reactome:115332 ; Reactome:117849 ; Reactome:117855 ; Reactome:117859 ; Reactome:117862 ; Reactome:120480 ; Reactome:120488 ; Reactome:122808 ; Reactome:122814 ; Reactome:122818 ; Reactome:124864 ; Reactome:124870 ; Reactome:69198 ; Reactome:69262 ; Reactome:69735 ; Reactome:69742 ; synonym:protein phosphatase activity
+protein binding ; GO:0005515
+protein kinase activity ; GO:0004672 ; EC:2.7.1.37 ; MetaCyc:PROTEIN-KINASE-RXN
+RNA binding ; GO:0003723
+signal transducer activity ; GO:0004871
+structural molecule activity ; GO:0005198
+transcription regulator activity ; GO:0030528
+transferase activity ; GO:0016740 ; EC:2.-.-.-
+nucleotidyltransferase activity ; GO:0016779 ; EC:2.7.7.-
+translation regulator activity ; GO:0045182
+transporter activity ; GO:0005215

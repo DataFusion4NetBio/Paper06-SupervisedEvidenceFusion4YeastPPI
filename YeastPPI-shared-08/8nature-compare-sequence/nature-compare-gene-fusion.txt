@@ -1,0 +1,358 @@
+YER090W   YKL211C    gene neighborhood (16) gene fusion (4) gene cooccurence TAP (1) synexpression. confidence: high. previously annotated: yes.
+YBR126C   YDR074W    gene neighborhood (4) gene fusion (1) gene cooccurence TAP (1) synexpression. confidence: high. previously annotated: yes.
+YFR030W   YJR137C    gene neighborhood (13) gene fusion (11) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YFL022C   YLR060W    gene neighborhood (21) gene fusion (1) TAP (1). confidence: high. previously annotated: yes.
+YNR012W   YDR020C    gene fusion (1) two-hybrid (22). confidence: high. previously annotated: no.
+YGR264C   YGL105W    gene fusion (18) synthetic lethality. confidence: high. previously annotated: no.
+YDR354W   YKL211C    gene neighborhood (14) gene fusion (3) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YER178W   YBR221C    gene neighborhood (14) gene fusion (1) gene cooccurence TAP (3). confidence: high. previously annotated: yes.
+YNL071W   YBR221C    gene neighborhood (13) gene fusion (2) TAP (2). confidence: high. previously annotated: yes.
+YBR221C   YGR193C    gene neighborhood (13) gene fusion (2) TAP (2). confidence: high. previously annotated: yes.
+YNR016C   YGL062W    gene neighborhood (9) gene fusion (4) HMS-PCI (1). confidence: high. previously annotated: no.
+YNR016C   YBR218C    gene neighborhood (9) gene fusion (4) HMS-PCI (1). confidence: high. previously annotated: no.
+YKL182W   YPL231W    gene neighborhood (10) gene fusion (2) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YIL125W   YDR148C    gene neighborhood (10) gene fusion (1) TAP (2). confidence: high. previously annotated: yes.
+YML100W   YDR074W    gene neighborhood (4) gene fusion (1) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YMR261C   YDR074W    gene neighborhood (4) gene fusion (1) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YGR262C   YKR038C    gene fusion (4) HMS-PCI (1). confidence: high. previously annotated: no.
+YDR127W   YBR166C    gene neighborhood (4) gene fusion (1) HMS-PCI (1). confidence: high. previously annotated: no.
+YNR012W   YHR128W    gene fusion (1) two-hybrid (3). confidence: high. previously annotated: no.
+YKL001C   YJR010W    gene neighborhood (2) gene fusion (1) synexpression. confidence: high. previously annotated: no.
+YOR116C   YDL185W    gene fusion (1) HMS-PCI (1). confidence: high. previously annotated: no.
+YDL185W   YOR341W    gene fusion (1) HMS-PCI (1). confidence: high. previously annotated: no.
+YDL185W   YJL026W    gene fusion (1) HMS-PCI (2). confidence: high. previously annotated: no.
+YGR204W   YBR084W    gene fusion (1) TAP (1). confidence: high. previously annotated: no.
+YKL104C   YDL185W    gene fusion (1) HMS-PCI (1). confidence: high. previously annotated: no.
+YBR218C   YHR018C    gene fusion (1) synexpression. confidence: high. previously annotated: no.
+YJR104C   YDR226W    gene fusion (1) HMS-PCI (1). confidence: high. previously annotated: no.
+YPR047W   YGL105W    gene neighborhood (17) gene fusion (20). confidence: medium. previously annotated: no.
+YMR217W   YLR126C    gene neighborhood (3) gene fusion (20) gene cooccurence. confidence: medium. previously annotated: no.
+YFL022C   YPR047W    gene neighborhood (21) gene fusion (1). confidence: medium. previously annotated: yes.
+YPR047W   YLR060W    gene neighborhood (21) gene fusion (1). confidence: medium. previously annotated: yes.
+YER090W   YNR033W    gene neighborhood (16) gene fusion (4) gene cooccurence. confidence: medium. previously annotated: no.
+YNR033W   YKL211C    gene neighborhood (16) gene fusion (4) gene cooccurence. confidence: medium. previously annotated: no.
+YLR060W   YGL105W    gene fusion (20). confidence: medium. previously annotated: no.
+YBL033C   YDR487C    gene neighborhood (2) gene fusion (17). confidence: medium. previously annotated: no.
+YEL015W   YKL151C    gene fusion (18) gene cooccurence. confidence: medium. previously annotated: no.
+YNL200C   YKL151C    gene fusion (18) gene cooccurence. confidence: medium. previously annotated: no.
+YGR171C   YGL105W    gene fusion (18). confidence: medium. previously annotated: no.
+YBR153W   YOL066C    gene fusion (17). confidence: medium. previously annotated: no.
+YNR033W   YDR354W    gene neighborhood (14) gene fusion (3) gene cooccurence. confidence: medium. previously annotated: no.
+YPR004C   YGR207C    gene neighborhood (14) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YNR016C   YBR208C    gene neighborhood (11) gene fusion (4) gene cooccurence. confidence: medium. previously annotated: no.
+YDR148C   YBR221C    gene neighborhood (13) gene fusion (2). confidence: medium. previously annotated: no.
+YDR007W   YKL211C    gene neighborhood (11) gene fusion (3). confidence: medium. previously annotated: no.
+YJL130C   YOR303W    gene neighborhood (11) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YKL182W   YER061C    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+YER061C   YOR221C    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+YER061C   YPL231W    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+YOR303W   YJR109C    gene neighborhood (11) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: yes.
+YJL130C   YJR109C    gene neighborhood (11) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YPL231W   YOR221C    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+YJL093C   YJL094C    gene fusion (11). confidence: medium. previously annotated: no.
+YDR376W   YDL171C    gene neighborhood (10) gene fusion (1). confidence: medium. previously annotated: no.
+YNL071W   YIL125W    gene neighborhood (10) gene fusion (1). confidence: medium. previously annotated: no.
+Q0045   Q0275    gene neighborhood (8) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: yes.
+YIL125W   YGR193C    gene neighborhood (10) gene fusion (1). confidence: medium. previously annotated: no.
+YKR069W   YBR213W    gene neighborhood (2) gene fusion (8) gene cooccurence. confidence: medium. previously annotated: no.
+YNR033W   YHR208W    gene neighborhood (5) gene fusion (4). confidence: medium. previously annotated: no.
+YNR033W   YJR148W    gene neighborhood (5) gene fusion (4). confidence: medium. previously annotated: no.
+YER090W   YJR148W    gene neighborhood (5) gene fusion (4). confidence: medium. previously annotated: no.
+YPR060C   YNL316C    gene fusion (9). confidence: medium. previously annotated: no.
+YER090W   YHR208W    gene neighborhood (5) gene fusion (4). confidence: medium. previously annotated: no.
+YER042W   YCL033C    gene fusion (6) gene cooccurence. confidence: medium. previously annotated: no.
+YPR026W   YER062C    gene neighborhood (6) gene fusion (1). confidence: medium. previously annotated: no.
+YJL130C   YIR027C    gene neighborhood (6) gene fusion (1). confidence: medium. previously annotated: no.
+YDL235C   YFL033C    gene neighborhood (3) gene fusion (4). confidence: medium. previously annotated: no.
+YCR012W   YDR050C    gene neighborhood (6) gene fusion (1). confidence: medium. previously annotated: no.
+YIL053W   YPR026W    gene neighborhood (6) gene fusion (1). confidence: medium. previously annotated: no.
+YER141W   YPL172C    gene neighborhood (5) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YDL235C   YLR006C    gene neighborhood (3) gene fusion (4). confidence: medium. previously annotated: no.
+YDL235C   YIL147C    gene neighborhood (3) gene fusion (4). confidence: medium. previously annotated: no.
+YHR044C   YPR026W    gene neighborhood (6) gene fusion (1). confidence: medium. previously annotated: no.
+YHR043C   YPR026W    gene neighborhood (6) gene fusion (1). confidence: medium. previously annotated: no.
+YDL235C   YHR206W    gene neighborhood (3) gene fusion (4). confidence: medium. previously annotated: no.
+YNR074C   YHR179W    gene fusion (6). confidence: medium. previously annotated: no.
+YNR074C   YHR111W    gene neighborhood (3) gene fusion (3). confidence: medium. previously annotated: no.
+YGL059W   YDL235C    gene neighborhood (2) gene fusion (4). confidence: medium. previously annotated: no.
+YNR074C   YOR285W    gene neighborhood (3) gene fusion (3). confidence: medium. previously annotated: no.
+YNR074C   YOR286W    gene neighborhood (3) gene fusion (3). confidence: medium. previously annotated: no.
+YIL042C   YDL235C    gene neighborhood (2) gene fusion (4). confidence: medium. previously annotated: no.
+YPR060C   YBR166C    gene neighborhood (3) gene fusion (3). confidence: medium. previously annotated: no.
+YCR014C   YFR025C    gene fusion (5). confidence: medium. previously annotated: no.
+YGR286C   YDR232W    gene neighborhood (5) gene fusion (1). confidence: medium. previously annotated: no.
+YKR069W   YOR278W    gene neighborhood (2) gene fusion (4). confidence: medium. previously annotated: no.
+YDR062W   YGR286C    gene neighborhood (5) gene fusion (1). confidence: medium. previously annotated: no.
+YGR286C   YMR296C    gene neighborhood (5) gene fusion (1). confidence: medium. previously annotated: no.
+YNR074C   YPL171C    gene fusion (6). confidence: medium. previously annotated: no.
+YHL016C   YIL147C    gene fusion (4). confidence: medium. previously annotated: no.
+YHR042W   YJR137C    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YEL058W   YDR211W    gene neighborhood (3) gene fusion (2). confidence: medium. previously annotated: no.
+YER052C   YJR139C    gene fusion (4). confidence: medium. previously annotated: no.
+YOR260W   YMR278W    gene neighborhood (3) gene fusion (2). confidence: medium. previously annotated: no.
+YLR028C   YDR408C    gene neighborhood (3) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YHL016C   YGL059W    gene fusion (4). confidence: medium. previously annotated: no.
+YPR048W   YJR137C    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YBR115C   YOR093C    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YBR115C   YBR222C    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YDL055C   YMR278W    gene neighborhood (3) gene fusion (2). confidence: medium. previously annotated: no.
+YIL042C   YHL016C    gene fusion (4). confidence: medium. previously annotated: no.
+YEL058W   YOR260W    gene neighborhood (3) gene fusion (2). confidence: medium. previously annotated: no.
+YEL058W   YDL055C    gene neighborhood (3) gene fusion (2). confidence: medium. previously annotated: no.
+YNL063W   YGL169W    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YGR262C   YDL104C    gene fusion (4). confidence: medium. previously annotated: no.
+YDR386W   YIR002C    gene fusion (5). confidence: medium. previously annotated: no.
+YIR002C   YPL022W    gene fusion (5). confidence: medium. previously annotated: no.
+YBR115C   YBR041W    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YMR120C   YDR408C    gene neighborhood (3) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YDR140W   YGL169W    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YGR267C   YNL256W    gene neighborhood (4) gene fusion (1). confidence: medium. previously annotated: no.
+YMR278W   YDR211W    gene neighborhood (3) gene fusion (2). confidence: medium. previously annotated: no.
+YDR272W   YOR285W    gene neighborhood (2) gene fusion (2). confidence: medium. previously annotated: no.
+YIL043C   YPL252C    gene fusion (3). confidence: medium. previously annotated: no.
+YDR272W   YOR286W    gene neighborhood (2) gene fusion (2). confidence: medium. previously annotated: no.
+YPL252C   YML087C    gene fusion (3). confidence: medium. previously annotated: no.
+YPL252C   YML125C    gene fusion (3). confidence: medium. previously annotated: no.
+YPL252C   YKL150W    gene fusion (3). confidence: medium. previously annotated: no.
+YOR040W   YOR286W    gene neighborhood (2) gene fusion (2). confidence: medium. previously annotated: no.
+YML059C   YIL033C    gene fusion (3). confidence: medium. previously annotated: no.
+YOR040W   YOR285W    gene neighborhood (2) gene fusion (2). confidence: medium. previously annotated: no.
+YOR040W   YHR111W    gene neighborhood (2) gene fusion (2). confidence: medium. previously annotated: no.
+YHR111W   YDR272W    gene neighborhood (2) gene fusion (2). confidence: medium. previously annotated: no.
+YHR176W   YDR428C    gene neighborhood (3) gene fusion (1). confidence: medium. previously annotated: no.
+YKL040C   YLL027W    gene fusion (4). confidence: medium. previously annotated: no.
+YPR067W   YKL040C    gene fusion (4). confidence: medium. previously annotated: no.
+YGR263C   YHR176W    gene neighborhood (3) gene fusion (1). confidence: medium. previously annotated: no.
+YPL148C   YPL231W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YPL148C   YER061C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YKL194C   YDR020C    gene fusion (2). confidence: medium. previously annotated: no.
+YHL016C   YHR206W    gene fusion (3). confidence: medium. previously annotated: no.
+YHL016C   YLR006C    gene fusion (3). confidence: medium. previously annotated: no.
+YNL256W   YKL132C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YKR009C   YPL231W    gene fusion (2). confidence: medium. previously annotated: no.
+YDL185W   YIL066C    gene fusion (3). confidence: medium. previously annotated: no.
+YDL227C   YER095W    gene fusion (2). confidence: medium. previously annotated: no.
+YDL185W   YDR004W    gene fusion (2). confidence: medium. previously annotated: no.
+YDL185W   YER179W    gene fusion (2). confidence: medium. previously annotated: no.
+YDL185W   YER070W    gene fusion (3). confidence: medium. previously annotated: no.
+YBR208C   YBR218C    gene fusion (2). confidence: medium. previously annotated: no.
+YNL316C   YBR166C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YPR003C   YNL036W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YER179W    gene fusion (2). confidence: medium. previously annotated: no.
+YNR012W   YKL194C    gene fusion (2). confidence: medium. previously annotated: no.
+YNL036W   YGR125W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YDR004W    gene fusion (2). confidence: medium. previously annotated: no.
+YLR092W   YNL036W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YER070W    gene fusion (3). confidence: medium. previously annotated: no.
+YPL188W   YHR046C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YPL188W   YDR287W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YPR073C   YPR201W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YIL078W   YDR020C    gene fusion (2). confidence: medium. previously annotated: no.
+YHR046C   YEL041W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YHR046C   YJR049C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YNL256W   YOR241W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YNR012W   YIL078W    gene fusion (2). confidence: medium. previously annotated: no.
+YBR019C   YHR210C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YNL256W   YMR113W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YGL062W   YBR208C    gene fusion (2). confidence: medium. previously annotated: no.
+YBR294W   YNL036W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YOR303W   YIR027C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YDL185W    gene fusion (3). confidence: medium. previously annotated: no.
+YHL016C   YFL033C    gene fusion (3). confidence: medium. previously annotated: no.
+YJR049C   YDR287W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YER095W   YDL185W    gene fusion (2). confidence: medium. previously annotated: no.
+YNL129W   YKL194C    gene fusion (2). confidence: medium. previously annotated: no.
+YNL129W   YIL078W    gene fusion (2). confidence: medium. previously annotated: no.
+YDL227C   YIL066C    gene fusion (3). confidence: medium. previously annotated: no.
+YNR071C   YBR019C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YDR287W   YEL041W    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YDR019C   YHR009C    gene neighborhood (2) gene fusion (1). confidence: medium. previously annotated: no.
+YDL185W   YGR246C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL185W   YNL088W    gene fusion (1). confidence: medium. previously annotated: no.
+YDR147W   YDR211W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL185W   YAL035W    gene fusion (2). confidence: medium. previously annotated: no.
+YDL185W   YDL140C    gene fusion (1). confidence: medium. previously annotated: no.
+YOR260W   YDR147W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YOR341W    gene fusion (1). confidence: medium. previously annotated: no.
+YOR260W   YLR133W    gene fusion (1). confidence: medium. previously annotated: no.
+YOR040W   YNL168C    gene fusion (1). confidence: medium. previously annotated: no.
+YDR117C   YDL045C    gene fusion (2). confidence: medium. previously annotated: no.
+YDL227C   YOL023W    gene fusion (2). confidence: medium. previously annotated: no.
+YPL246C   YNL155W    gene fusion (2). confidence: medium. previously annotated: no.
+YPL246C   YOR052C    gene fusion (2). confidence: medium. previously annotated: no.
+YNR016C   YMR293C    gene fusion (1). confidence: medium. previously annotated: no.
+YOL023W   YDL185W    gene fusion (2). confidence: medium. previously annotated: no.
+YGR169C   YOL066C    gene fusion (1). confidence: medium. previously annotated: no.
+YGL205W   YDR428C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL055C   YDR147W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL055C   YLR133W    gene fusion (1). confidence: medium. previously annotated: no.
+YDR272W   YNL168C    gene fusion (1). confidence: medium. previously annotated: no.
+YPR073C   YLR361C    gene fusion (1). confidence: medium. previously annotated: no.
+YPR073C   YOR137C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL036C   YOL066C    gene fusion (1). confidence: medium. previously annotated: no.
+YNL155W   YGR062C    gene fusion (2). confidence: medium. previously annotated: no.
+YNL155W   YGR101W    gene fusion (2). confidence: medium. previously annotated: no.
+YKL182W   YOR221C    gene fusion (2). confidence: medium. previously annotated: no.
+YKL182W   YKR009C    gene fusion (2). confidence: medium. previously annotated: no.
+YKL182W   YPL148C    gene fusion (1). confidence: medium. previously annotated: no.
+YPL148C   YOR221C    gene fusion (1). confidence: medium. previously annotated: no.
+YPR086W   YDL185W    gene fusion (1). confidence: medium. previously annotated: no.
+YGR204W   YKR080W    gene fusion (1). confidence: medium. previously annotated: no.
+YBR208C   YMR293C    gene fusion (1). confidence: medium. previously annotated: no.
+YDR403W   YLL057C    gene fusion (1). confidence: medium. previously annotated: no.
+YNR074C   YDR019C    gene fusion (2). confidence: medium. previously annotated: no.
+YDR117C   YPR167C    gene fusion (2). confidence: medium. previously annotated: no.
+YDL227C   YGR246C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YAL035W    gene fusion (2). confidence: medium. previously annotated: no.
+YDL227C   YNL088W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR165C   YOL066C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YPR086W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YDL140C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YOR116C    gene fusion (1). confidence: medium. previously annotated: no.
+YJL094C   YIL154C    gene fusion (2). confidence: medium. previously annotated: no.
+YGR263C   YGL205W    gene fusion (1). confidence: medium. previously annotated: no.
+YJR109C   YIR027C    gene fusion (1). confidence: medium. previously annotated: no.
+YKL184W   YER052C    gene fusion (1). confidence: medium. previously annotated: no.
+YBR084W   YKR080W    gene fusion (1). confidence: medium. previously annotated: no.
+YKR009C   YOR221C    gene fusion (2). confidence: medium. previously annotated: no.
+YOR065W   Q0250    gene fusion (2). confidence: medium. previously annotated: no.
+YDR211W   YLR133W    gene fusion (1). confidence: medium. previously annotated: no.
+YKL040C   YPL135W    gene fusion (2). confidence: medium. previously annotated: no.
+YDR242W   YBR208C    gene fusion (1). confidence: medium. previously annotated: no.
+YDR242W   YNR016C    gene fusion (1). confidence: medium. previously annotated: no.
+YOR052C   YGR062C    gene fusion (2). confidence: medium. previously annotated: no.
+YOR052C   YGR101W    gene fusion (2). confidence: medium. previously annotated: no.
+YKL040C   YOR226C    gene fusion (2). confidence: medium. previously annotated: no.
+YLL027W   YOR285W    gene fusion (1). confidence: medium. previously annotated: no.
+YLL027W   YOR286W    gene fusion (1). confidence: medium. previously annotated: no.
+YLL027W   YER174C    gene fusion (1). confidence: medium. previously annotated: no.
+YPR062W   YGL211W    gene fusion (1). confidence: medium. previously annotated: no.
+YLL027W   YDR098C    gene fusion (1). confidence: medium. previously annotated: no.
+YPR073C   YDR007W    gene fusion (1). confidence: medium. previously annotated: no.
+YNL117W   YBR053C    gene fusion (1). confidence: medium. previously annotated: no.
+YIL133C   YPL214C    gene fusion (1). confidence: medium. previously annotated: no.
+YER178W   YOL140W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR308W   YPR183W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR308W   YPL227C    gene fusion (1). confidence: medium. previously annotated: no.
+YER179W   YBL092W    gene fusion (1). confidence: medium. previously annotated: no.
+YHL015W   YBR208C    gene fusion (1). confidence: medium. previously annotated: no.
+YHL015W   YNR016C    gene fusion (1). confidence: medium. previously annotated: no.
+YBR115C   YMR246W    gene fusion (1). confidence: medium. previously annotated: no.
+YBR115C   YOR317W    gene fusion (1). confidence: medium. previously annotated: no.
+YBR115C   YIL009W    gene fusion (1). confidence: medium. previously annotated: no.
+YGL091C   YER057C    gene fusion (1). confidence: medium. previously annotated: no.
+YNR027W   YDR036C    gene fusion (1). confidence: medium. previously annotated: no.
+YER004W   YOR278W    gene fusion (1). confidence: medium. previously annotated: no.
+YER004W   YKR069W    gene fusion (1). confidence: medium. previously annotated: no.
+YOL033W   YBL080C    gene fusion (1). confidence: medium. previously annotated: no.
+YPR067W   YOR285W    gene fusion (1). confidence: medium. previously annotated: no.
+YPR067W   YPL059W    gene fusion (1). confidence: medium. previously annotated: no.
+YPR067W   YOR286W    gene fusion (1). confidence: medium. previously annotated: no.
+YPR067W   YER174C    gene fusion (1). confidence: medium. previously annotated: no.
+YPR067W   YHR111W    gene fusion (1). confidence: medium. previously annotated: no.
+YPR067W   YDR098C    gene fusion (1). confidence: medium. previously annotated: no.
+YMR113W   YDR428C    gene fusion (1). confidence: medium. previously annotated: no.
+YDR074W   YPR026W    gene fusion (1). confidence: medium. previously annotated: no.
+YDR074W   YER062C    gene fusion (1). confidence: medium. previously annotated: no.
+YGR208W   YBR042C    gene fusion (1). confidence: medium. previously annotated: no.
+YGR208W   YDL052C    gene fusion (1). confidence: medium. previously annotated: no.
+YGR208W   YDR018C    gene fusion (1). confidence: medium. previously annotated: no.
+YER095W   YBL092W    gene fusion (1). confidence: medium. previously annotated: no.
+YJL005W   YPL252C    gene fusion (1). confidence: medium. previously annotated: no.
+YJL005W   YLR238W    gene fusion (1). confidence: medium. previously annotated: no.
+YJL005W   YHR115C    gene fusion (1). confidence: medium. previously annotated: no.
+YJL005W   YDR200C    gene fusion (1). confidence: medium. previously annotated: no.
+YJL213W   YGR094W    gene fusion (1). confidence: medium. previously annotated: no.
+YNL168C   YAR015W    gene fusion (1). confidence: medium. previously annotated: no.
+YJL035C   YGL211W    gene fusion (1). confidence: medium. previously annotated: no.
+YGL205W   YNR033W    gene fusion (1). confidence: medium. previously annotated: no.
+YGL205W   YKL211C    gene fusion (1). confidence: medium. previously annotated: no.
+YIL125W   YPR183W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YMR084W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YJL026W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YKL104C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YGR180C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YDR076W    gene fusion (1). confidence: medium. previously annotated: no.
+YIL125W   YPL227C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YER172C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YGR271W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL227C   YGL251C    gene fusion (1). confidence: medium. previously annotated: no.
+YDR117C   YJR014W    gene fusion (1). confidence: medium. previously annotated: no.
+YDR117C   YNL244C    gene fusion (1). confidence: medium. previously annotated: no.
+YBR053C   YIR031C    gene fusion (1). confidence: medium. previously annotated: no.
+YGR271W   YDL185W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR307W   YPR183W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR307W   YPL227C    gene fusion (1). confidence: medium. previously annotated: no.
+YIL051C   YIL003W    gene fusion (1). confidence: medium. previously annotated: no.
+YIL051C   YGL091C    gene fusion (1). confidence: medium. previously annotated: no.
+YGR263C   YKL132C    gene fusion (1). confidence: medium. previously annotated: no.
+YGR263C   YOR241W    gene fusion (1). confidence: medium. previously annotated: no.
+YGR263C   YMR113W    gene fusion (1). confidence: medium. previously annotated: no.
+YKR009C   YER061C    gene fusion (1). confidence: medium. previously annotated: no.
+YHR111W   YLL027W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL185W   YMR084W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL185W   YGR180C    gene fusion (1). confidence: medium. previously annotated: no.
+YDL185W   YDR076W    gene fusion (1). confidence: medium. previously annotated: no.
+YDL185W   YER172C    gene fusion (1). confidence: medium. previously annotated: no.
+YOR278W   YHR206W    gene fusion (1). confidence: medium. previously annotated: no.
+YOR278W   YMR090W    gene fusion (1). confidence: medium. previously annotated: no.
+YOR278W   YLR006C    gene fusion (1). confidence: medium. previously annotated: no.
+YNR016C   YHR018C    gene fusion (1). confidence: medium. previously annotated: no.
+YFR030W   YPR048W    gene fusion (1). confidence: medium. previously annotated: no.
+YFR030W   YHR042W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR143W   YER057C    gene fusion (1). confidence: medium. previously annotated: no.
+YJR104C   YKL024C    gene fusion (1). confidence: medium. previously annotated: no.
+YNL069C   YPL214C    gene fusion (1). confidence: medium. previously annotated: no.
+YJR104C   YER170W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR143W   YIL003W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR143W   YIL051C    gene fusion (1). confidence: medium. previously annotated: no.
+YJR040W   YIL154C    gene fusion (1). confidence: medium. previously annotated: no.
+YLR143W   YGL091C    gene fusion (1). confidence: medium. previously annotated: no.
+YPL214C   YOR150W    gene fusion (1). confidence: medium. previously annotated: no.
+YOR168W   YBL080C    gene fusion (1). confidence: medium. previously annotated: no.
+YOR241W   YDR428C    gene fusion (1). confidence: medium. previously annotated: no.
+YBR115C   YER015W    gene fusion (1). confidence: medium. previously annotated: no.
+YGL062W   YHR018C    gene fusion (1). confidence: medium. previously annotated: no.
+YOR180C   YEL029C    gene fusion (1). confidence: medium. previously annotated: no.
+YGL085W   YHR202W    gene fusion (1). confidence: medium. previously annotated: no.
+YDR041W   YBR208C    gene fusion (1). confidence: medium. previously annotated: no.
+YDR041W   YNR016C    gene fusion (1). confidence: medium. previously annotated: no.
+YNL063W   YDL201W    gene fusion (1). confidence: medium. previously annotated: no.
+YNL129W   YHR128W    gene fusion (1). confidence: medium. previously annotated: no.
+YNL129W   YNR012W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR438W   YER178W    gene fusion (1). confidence: medium. previously annotated: no.
+YIL147C   YOR278W    gene fusion (1). confidence: medium. previously annotated: no.
+YBL013W   YDR036C    gene fusion (1). confidence: medium. previously annotated: no.
+YML059C   YNL026W    gene fusion (1). confidence: medium. previously annotated: no.
+YER090W   YGL205W    gene fusion (1). confidence: medium. previously annotated: no.
+YDR004W   YBL092W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR284C   YBL013W    gene fusion (1). confidence: medium. previously annotated: no.
+YIL053W   YDR074W    gene fusion (1). confidence: medium. previously annotated: no.
+YHR044C   YDR074W    gene fusion (1). confidence: medium. previously annotated: no.
+YBR208C   YHR018C    gene fusion (1). confidence: medium. previously annotated: no.
+YHR043C   YDR074W    gene fusion (1). confidence: medium. previously annotated: no.
+YFL033C   YOR278W    gene fusion (1). confidence: medium. previously annotated: no.
+YCR028C-A YGL085W    gene fusion (1). confidence: medium. previously annotated: no.
+YKL132C   YDR428C    gene fusion (1). confidence: medium. previously annotated: no.
+YGR019W   YER178W    gene fusion (1). confidence: medium. previously annotated: no.
+YEL024W   YHR009C    gene fusion (1). confidence: medium. previously annotated: no.
+YJL093C   YIL033C    gene fusion (1). confidence: medium. previously annotated: no.
+YJL093C   YML059C    gene fusion (1). confidence: medium. previously annotated: no.
+YOR180C   YNR027W    gene fusion (1). confidence: medium. previously annotated: no.
+YOR180C   YBL013W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR284C   YEL029C    gene fusion (1). confidence: medium. previously annotated: no.
+YLR284C   YNR027W    gene fusion (1). confidence: medium. previously annotated: no.
+YEL029C   YDR036C    gene fusion (1). confidence: medium. previously annotated: no.
+YGL252C   YOR390W    gene fusion (1). confidence: medium. previously annotated: no.
+YGL252C   YPL279C    gene fusion (1). confidence: medium. previously annotated: no.
+YLR189C   YPR183W    gene fusion (1). confidence: medium. previously annotated: no.
+YLR189C   YPL227C    gene fusion (1). confidence: medium. previously annotated: no.
+YNL116W   YJL005W    gene fusion (1). confidence: medium. previously annotated: no.
+YGL251C   YDL185W    gene fusion (1). confidence: medium. previously annotated: no.
+YHR128W   YDR020C    gene fusion (1). confidence: medium. previously annotated: no.
+YIL003W   YER057C    gene fusion (1). confidence: medium. previously annotated: no.
+YKR069W   YMR090W    gene fusion (1). confidence: medium. previously annotated: no.
+YDR140W   YDL201W    gene fusion (1). confidence: medium. previously annotated: no.
+YGL245W   YBL080C    gene fusion (1). confidence: medium. previously annotated: no.
+YNL218W   YBR022W    gene fusion (1). confidence: medium. previously annotated: no.
+YPL059W   YLL027W    gene fusion (1). confidence: medium. previously annotated: no.

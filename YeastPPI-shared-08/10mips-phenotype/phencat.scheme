@@ -1,0 +1,263 @@
+YEAST phenotypes catalogue [modified according to M. Hampsey YEAST 13:1099-1133 (1997)]
+
+
+12        Conditional phenotypes
+
+12.05        Heat-sensitivity (ts)
+12.10        Cold-sensitivity (cs)
+12.15        Slow-growth (slg)
+12.20        Ethanol sensitivity
+12.25        Formamide or formaldehyde sensitivity
+12.30        D2O sensitivity
+
+22        Cell cycle defects
+
+22.05        G1 arrest
+22.10        Failure to arrest in G1
+22.15        G2/M arrest
+22.99        other cell cycle defects
+
+32        Mating and sporulation defects
+
+32.05        Mating efficiency
+32.10        Sporulation efficiency
+32.15        Inappropriate sporulation
+32.99        other mating and sporulation defects
+
+42        Auxotrophies, carbon and
+           nitrogen utilization defects
+
+42.05        Inositol auxotrophy (Ino)
+42.10        Methionine auxotrophy (Met)
+42.15        Phosphate auxotrophy (Pho)
+42.20        Cystein auxotrophy
+42.25        Carbon utilization
+42.25.05           Sucrose fermentation (Snf;Ssn)
+42.25.10           Maltose fermentation (Mal)
+42.25.15           Galactose fermentation (Gal)
+42.25.20           Respiratory deficiency
+42.25.25           2-deoxyglucose resistance
+42.25.30           Accumulation of storage carbohydrates
+42.25.99           other carbon utilization defects
+42.30        Nitrogen utilization
+42.30.05           Glutamate auxotrophy
+42.30.10           Asparagine auxotrophy
+42.30.15           Proline utilization
+42.30.99           other nitrogen utilization defects
+42.99        other auxotrophies, carbon and
+             nitrogen utilization defects
+
+52         Cell morphology and organelle mutants
+
+52.05        Flocculence
+52.10        Budding mutants
+52.10.05           Bud localization
+52.10.10           Elongated cell and bud morphologies
+52.10.15           Multibudded cells
+52.10.20           Pseudohyphae formation
+52.10.99           other budding mutants
+52.15        Cell wall mutants
+52.15.05           Osmotic sensitivity (Osm)
+52.15.10           Osmotic remediability
+52.15.15           Calcofluor white 
+52.15.15.05             Calcofluor white resistance
+52.15.15.10             Calcofluor white sensitivity
+52.15.25           Cercosporamide sensitivity
+52.15.30           Papulacandin B 
+52.15.30.05              Papulacandin B resistance
+52.15.30.10              Papulacandin B sensitivity
+52.15.35           Killer toxin 
+52.15.35.05              Killer toxin expression defects 
+52.15.35.10              Killer toxin maintenance defects
+52.15.35.15              Killer toxin resistance
+52.15.35.20              Killer toxin hypersensitivity
+52.15.40           Zymolyase sensitivity
+52.15.45           Hygromycin B 
+52.15.45.05              Hygromycin B resistance
+52.15.45.10              Hygromycin B sensitivity
+52.15.99           other cell wall mutants
+52.20        Spore wall mutants
+52.25        Plasma membrane mutants
+52.30        Cytoskeleton mutants
+52.30.05           Tubulin cytoskeleton mutants
+52.30.05.05             Spindle mutants
+52.30.05.10             benomyl sensitivity
+52.30.05.20             nocodazole sensitivity
+52.30.05.30             thiabendazole sensitivity
+52.30.05.99             other tubulin cytoskeleton mutants
+52.30.10           Actin cytoskeleton mutants
+52.30.15           Intermediate filaments mutants
+52.30.99           other cytoskeleton mutants
+52.35        ER mutants
+52.40        Golgi mutants
+52.45        Secretory mutants
+52.50        Nuclear mutants
+52.55        Mitochondrial mutants
+52.60        Peroxisomal mutants
+52.65        Vacuolar mutants
+52.65.10       pH-sensitivity
+52.65.99       other vacuolar mutants
+52.99        other cell morphology mutants
+
+
+62         Stress response defects
+
+62.05        Heat shock sensitivity
+62.10        Starvation sensitivity
+62.15        Oxidizing agents
+62.15.05        H2O2 
+62.15.05.05        H2O2 resistance
+62.15.05.10        H2O2 sensitivity
+62.15.10        Menadione
+62.15.10.05        Menadione resistance
+62.15.10.10        Menadione sensitivity
+62.15.15        Diamide 
+62.15.15.05        Diamide resistance
+62.15.15.10        Diamide sensitivity
+62.15.20        Paraquat 
+62.15.20.05        Paraquat resistance
+62.15.20.10        Paraquat sensitivity
+62.15.99        other oxidizing agents
+62.15.99.05        other or general oxidizing agents resistance
+62.15.99.10        other or general oxidizing agents sensitivity
+62.35        Divalent cations and heavy metals
+62.35.01        Divalent cations and heavy metals resistance
+62.35.02        Divalent cations and heavy metals sensitivity
+62.35.03        Divalent cations and heavy metals suppression
+62.99        other stress response defects
+
+72         Carbohydrate and lipid biosynthesis defects
+
+72.05        Vanadate resistance
+72.10        Fenpropimorph resistance
+72.15        Nystatin resistance
+72.20        Mevinolin and lovostatin resistance
+72.99        other carbohydrate and lipid biosynthesis defects
+
+82         Nucleic acid metabolism defects
+
+82.05        DNA repair mutants
+82.05.05        UV light sensitivity
+82.05.10        Alkylating agents sensitivity
+82.05.15        Radiomimetic drugs sensitivity
+82.05.99        other DNA repair mutants
+82.10        DNA replication mutants
+82.10.05        Hydroxyurea sensitivity
+82.10.10        Distamycin A resistance
+82.10.15        Actinomycin D
+82.10.20        Camptothecin
+82.10.20.05        Camptothecin resistance
+82.10.20.10        Camptothecin sensitivity
+82.10.25        Ciclopyroxolamine sensitivity
+82.10.99        other DNA replication mutants
+82.15        Transcriptional mutants
+82.15.05        6-Azauracil sensitivity
+82.15.10        Mycophenolic acid sensitivity
+82.15.15        Thiolutin
+82.15.20        Inositol secretion (Opi)
+82.15.50        Silencing mutants
+82.15.99        other transcriptional mutants
+82.20        Recombination mutants
+82.25        Mutator phenotypes
+82.99        other nucleic acid metabolism defects
+
+92         Sensitivity to aminoacid analogs and other drugs  
+
+92.05        Canavanine
+92.05.05        Canavanine resistance
+92.05.10        Canavanine sensitivity
+92.10        Gamma-hydroxyaspartate
+92.15        Methylamine resistance
+92.20        D-Histidine resistance
+92.25        3-Aminotriazole
+92.25.05        3-Aminotriazole resistance
+92.25.10        3-Aminotriazole sensitivity
+92.30        Sulfometuron methyl resistance
+92.35        Cycloheximide 
+92.35.05        Cycloheximide resistance
+92.35.10        Cycloheximide sensitivity
+92.40        Trichodermin resistance
+92.45        Oligomycin
+92.45.05        Oligomycin resistance
+92.45.10        Oligomycin sensitivity
+92.50        o-Dinitrobenzene resistance
+92.55        Multidrug resistance
+92.60        Staurosporine sensitivity
+92.65        Caffeine
+92.65.05     Caffeine resistance
+92.65.10     Caffeine sensitivity
+92.70        Trifluoperazine 
+92.70.05        Trifluoperazine resistance
+92.70.10        Trifluoperazine sensitivity 
+92.75        Diazaborine 
+92.75.05        Diazaborine resistance
+92.75.10        Diazaborine sensitivity 
+92.99        other aminoacid analogs and other drugs  
+
+102        Sensitivity to antibiotics
+102.10        aminoglycoside antibiotics
+102.10.05                 G-418
+102.10.05.05                 G-418 resistance
+102.10.05.10                 G-418 sensitivity
+102.10.10                 hygromycin B
+102.10.10.05                 hygromycin B resistance
+102.10.10.10                 hygromycin B sensitivity
+102.10.15                 destomycin A
+102.10.15.05                 destomycin A resistance
+102.10.15.10                 destomycin A sensitivity
+102.10.20                 gentamicin
+102.10.20.05                 gentamicin resistance
+102.10.20.10                 gentamicin sensitivity
+102.10.25                 apramycin
+102.10.25.05                 apramycin resistance
+102.10.25.10                 apramycin sensitivity
+102.10.30                 kanamycin
+102.10.30.05                 kanamycin resistance
+102.10.30.10                 kanamycin sensitivity
+102.10.35                 lividomycin
+102.10.35.05                 lividomycin resistance
+102.10.35.10                 lividomycin sensitivity
+102.10.40                 neamine
+102.10.40.05                 neamine resistance
+102.10.40.10                 neamine sensitivity
+102.10.45                 neomycin
+102.10.45.05                 neomycin resistance
+102.10.45.10                 neomycin sensitivity
+102.10.50                 paromomycin
+102.10.50.05                 paromomycin resistance
+102.10.50.10                 paromomycin sensitivity
+102.10.55                 tobramycin
+102.10.55.05                 tobramycin resistance
+102.10.55.10                 tobramycin sensitivity
+102.10.60                 tunicamycin
+102.10.60.05                 tunicamycin resistance
+102.10.60.10                 tunicamycin sensitivity
+102.10.99                 other or general aminoglycoside antibiotics
+102.10.99.05                 other or general aminoglycoside antibiotics resistance
+102.10.99.10                 other or general aminoglycoside antibiotics sensitivity
+
+102.15        beta-lactam antibiotics
+102.20        tetracycline antibiotics
+102.25        polyen antibiotics (macrolide antibiotics)
+102.30        anthracycline antibiotics
+102.35        ansamycine antibiotics (Rifampicine antibiotics)
+102.40        peptide antibiotics
+102.99        other antibiotics
+
+112      Sensitivity to immunosuppressants
+112.10          Cyclosporin A (CsA)
+112.10.05          Cyclosporin A (CsA) resistance
+112.10.10          Cyclosporin A (CsA) sensitivity
+112.20          FK506
+112.20.05          FK506 resistance
+112.20.10          FK506 sensitivity
+112.30          Rapamycin
+112.30.05          Rapamycin resistance
+112.30.10          Rapamycin sensitivity
+112.99          other or general immunosuppressants
+112.99.05           other or general immunosuppressants resistance   
+112.99.10           other or general immunosuppressants sensistivity   
+
+
+
+

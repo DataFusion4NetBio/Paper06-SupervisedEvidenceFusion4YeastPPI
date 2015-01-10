@@ -1,0 +1,886 @@
+YLR197W   YDL014W    gene neighborhood (5) TAP (5) HMS-PCI (2) synthetic lethality. confidence: high. previously annotated: yes.
+YOR039W   YOR061W    TAP (5) HMS-PCI (4) two-hybrid (2) synthetic lethality. confidence: high. previously annotated: yes.
+YDR473C   YPR178W    TAP (5) HMS-PCI (1) two-hybrid (3) synthetic lethality. confidence: high. previously annotated: no.
+YIL106W   YGR092W    HMS-PCI (1) two-hybrid (15) synthetic lethality. confidence: high. previously annotated: yes.
+YOR061W   YGL019W    TAP (8) HMS-PCI (6) synthetic lethality. confidence: high. previously annotated: yes.
+YGL049C   YGR162W    TAP (6) HMS-PCI (6) synthetic lethality. confidence: high. previously annotated: yes.
+YDR328C   YDL132W    HMS-PCI (10) two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YFR052W   YHR200W    TAP (8) HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: yes.
+YGR162W   YOL139C    TAP (4) HMS-PCI (4) synthetic lethality. confidence: high. previously annotated: yes.
+YOR310C   YDL014W    gene neighborhood (5) TAP (2) synthetic lethality. confidence: high. previously annotated: yes.
+YMR061W   YDR228C    TAP (4) two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YJL203W   YDL043C    TAP (3) two-hybrid (2) synthetic lethality. confidence: high. previously annotated: no.
+YLR370C   YBR234C    TAP (3) HMS-PCI (2) synthetic lethality. confidence: high. previously annotated: no.
+YLL036C   YPR101W    TAP (4) HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: yes.
+YKL045W   YIR008C    gene neighborhood (2) TAP (2) synthetic lethality. confidence: high. previously annotated: yes.
+YJL098W   YKR028W    TAP (1) HMS-PCI (3) synthetic lethality. confidence: high. previously annotated: no.
+YDR228C   YGL044C    TAP (3) two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YLR166C   YPR055W    TAP (1) two-hybrid (2) synthetic lethality. confidence: high. previously annotated: yes.
+YFR040W   YJL098W    TAP (1) HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YFR040W   YKR028W    TAP (1) HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YOR326W   YBR109C    TAP (1) HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YBR087W   YJR068W    HMS-PCI (1) two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YER094C   YOR157C    TAP (1) two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YGR264C   YGL105W    gene fusion (18) synthetic lethality. confidence: high. previously annotated: no.
+YJL014W   YIL142W    HMS-PCI (14) synthetic lethality. confidence: high. previously annotated: yes.
+YIL142W   YDR212W    HMS-PCI (13) synthetic lethality. confidence: high. previously annotated: yes.
+YJL014W   YDR212W    HMS-PCI (10) synthetic lethality. confidence: high. previously annotated: yes.
+YMR061W   YKR002W    TAP (8) synthetic lethality. confidence: high. previously annotated: no.
+YER016W   YCL029C    two-hybrid (4) synthetic lethality. confidence: high. previously annotated: yes.
+YDL030W   YJL203W    TAP (4) synthetic lethality. confidence: high. previously annotated: no.
+YBR160W   YPR119W    HMS-PCI (3) synthetic lethality. confidence: high. previously annotated: yes.
+YLR166C   YGL233W    two-hybrid (3) synthetic lethality. confidence: high. previously annotated: yes.
+YNL287W   YPL010W    TAP (3) synthetic lethality. confidence: high. previously annotated: yes.
+YPR168W   YGL151W    TAP (3) synthetic lethality. confidence: high. previously annotated: yes.
+YMR047C   YKL068W    two-hybrid (3) synthetic lethality. confidence: high. previously annotated: yes.
+YDL030W   YDL043C    TAP (3) synthetic lethality. confidence: high. previously annotated: yes.
+YDL192W   YDL137W    HMS-PCI (3) synthetic lethality. confidence: high. previously annotated: no.
+YLR117C   YDR364C    TAP (3) synthetic lethality. confidence: high. previously annotated: no.
+YDR385W   YOR133W    TAP (3) synthetic lethality. confidence: high. previously annotated: yes.
+YDR416W   YDR364C    TAP (3) synthetic lethality. confidence: high. previously annotated: no.
+YER177W   YDR099W    TAP (2) synthetic lethality. confidence: high. previously annotated: no.
+YPL256C   YMR199W    TAP (2) synthetic lethality. confidence: high. previously annotated: yes.
+YGL245W   YGL105W    HMS-PCI (2) synthetic lethality. confidence: high. previously annotated: no.
+YGL022W   YPL227C    gene neighborhood (2) synthetic lethality. confidence: high. previously annotated: no.
+YHR166C   YLR127C    TAP (2) synthetic lethality. confidence: high. previously annotated: yes.
+YDL029W   YJL095W    HMS-PCI (2) synthetic lethality. confidence: high. previously annotated: no.
+YMR308C   YER110C    TAP (2) synthetic lethality. confidence: high. previously annotated: no.
+YBR060C   YNL261W    TAP (2) synthetic lethality. confidence: high. previously annotated: yes.
+YKR002W   YGL044C    TAP (2) synthetic lethality. confidence: high. previously annotated: no.
+YEL002C   YGL022W    TAP (2) synthetic lethality. confidence: high. previously annotated: yes.
+YDL220C   YDR082W    two-hybrid (2) synthetic lethality. confidence: high. previously annotated: no.
+YPL043W   YDL014W    TAP (2) synthetic lethality. confidence: high. previously annotated: no.
+YNL154C   YHR135C    HMS-PCI (2) synthetic lethality. confidence: high. previously annotated: yes.
+YJL203W   YPR178W    TAP (2) synthetic lethality. confidence: high. previously annotated: no.
+YBR081C   YOL051W    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YDL029W   YHR030C    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YDL029W   YFR040W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YNL236W   YGR252W    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YOR204W   YOL139C    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YER155C   YDL047W    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YBR200W   YAL041W    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YFL038C   YLR262C    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YJR043C   YJR006W    two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YBR087W   YER173W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YDR388W   YBL007C    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: yes.
+YDL029W   YNL189W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YDL132W   YFL009W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: yes.
+YAL023C   YDL095W    synthetic lethality synexpression. confidence: high. previously annotated: no.
+YOR106W   YGL212W    two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YDL195W   YPL085W    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YDL195W   YPR181C    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YIL063C   YGR218W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YLR212C   YNL126W    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YIL126W   YNL030W    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YBR081C   YNL236W    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YHR041C   YGR252W    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YHL011C   YOL061W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YLR166C   YIL068C    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YHR023W   YOR326W    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YLR166C   YDR166C    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YDL029W   YBR260C    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: no.
+YDR021W   YER127W    synthetic lethality synexpression. confidence: high. previously annotated: no.
+YDL070W   YLR399C    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YNL312W   YJL173C    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YER008C   YLR166C    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YPL153C   YGR180C    TAP (1) synthetic lethality. confidence: high. previously annotated: no.
+YJR063W   YDR156W    two-hybrid (1) synthetic lethality. confidence: high. previously annotated: yes.
+YIL046W   YDL132W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: yes.
+YIL068C   YPR055W    TAP (1) synthetic lethality. confidence: high. previously annotated: yes.
+YJR068W   YOR217W    HMS-PCI (1) synthetic lethality. confidence: high. previously annotated: yes.
+YKL106W   YCL018W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL212W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR151C   YGL043W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL023C   YBR103W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL023C   YGL178W    synthetic lethality. confidence: medium. previously annotated: no.
+YOL123W   YGL044C    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR085W   YDL143W    synthetic lethality. confidence: medium. previously annotated: no.
+YFR052W   YIL075C    synthetic lethality. confidence: medium. previously annotated: yes.
+YGR070W   YLR371W    synthetic lethality. confidence: medium. previously annotated: no.
+YFR052W   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL213C   YGL173C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR089C   YGL171W    synthetic lethality. confidence: medium. previously annotated: no.
+YJR032W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR059W   YPR163C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR059W   YOL139C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR059W   YOR204W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR059W   YGR162W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL016W   YGR252W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL016W   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL016W   YLR071C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL041W   YPL161C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL041W   YKL080W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL225W   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL212W   YKL093W    synthetic lethality. confidence: medium. previously annotated: no.
+YML055W   YIR022W    synthetic lethality. confidence: medium. previously annotated: yes.
+YMR138W   YML085C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR160W   YDL017W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR172W   YDR356W    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR160W   YNL189W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR160W   YKL145W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR216C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL095W   YBR015C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL095W   YPL084W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL095W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL095W   YOR008C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL133C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL256C   YDL132W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL256C   YAL040C    synthetic lethality. confidence: medium. previously annotated: yes.
+YJR010C-A YIR022W    synthetic lethality. confidence: medium. previously annotated: yes.
+YCL018W   YDR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YIL142W   YDL143W    synthetic lethality. confidence: medium. previously annotated: yes.
+YER125W   YLR337C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL261W   YPR019W    synthetic lethality. confidence: medium. previously annotated: yes.
+YLR111W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL160C   YBL105C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR193C   YML062C    synthetic lethality. confidence: medium. previously annotated: no.
+YBL079W   YLR335W    synthetic lethality. confidence: medium. previously annotated: yes.
+YML094W   YJL020C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YEL003W    synthetic lethality. confidence: medium. previously annotated: no.
+YML094W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YBR200W    synthetic lethality. confidence: medium. previously annotated: yes.
+YML094W   YLR212C    synthetic lethality. confidence: medium. previously annotated: no.
+YML094W   YER016W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YJR075W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YBR171W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YJR032W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YNL243W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDL029W   YNL084C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR182C   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR424C   YIL034C    synthetic lethality. confidence: medium. previously annotated: no.
+YCL027W   YHR158C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YBL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YIL095W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YJL183W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YKR042W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YBL062W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YHR142W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YER155C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YCR009C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YBR023C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YER083C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YER149C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YOR098C    synthetic lethality. confidence: medium. previously annotated: no.
+YPR086W   YMR039C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL003W   YIL142W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL003W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YDR018C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YNL153C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YGR078C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YNL298W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YJL099W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YDR388W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDL029W   YNL233W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YAL013W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YLR111W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YJR117W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YCL037C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YLR337C    synthetic lethality. confidence: medium. previously annotated: yes.
+YDL029W   YOR216C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YJR118C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YGL250W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YEL031W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YDR389W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YPL069C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YDR310C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YNL322C    synthetic lethality. confidence: medium. previously annotated: no.
+YER167W   YAL040C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YOR035C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YLR330W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL029W   YDR129C    synthetic lethality. confidence: medium. previously annotated: yes.
+YML104C   YPL084W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL226C   YHR135C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL226C   YNL154C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR450W   YBR048W    synthetic lethality. confidence: medium. previously annotated: yes.
+YOR033C   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR352W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR082W   YNL070W    synthetic lethality. confidence: medium. previously annotated: yes.
+YIL106W   YAR019C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL106W   YMR001C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL106W   YAL024C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR202W   YLR274W    synthetic lethality. confidence: medium. previously annotated: yes.
+YOL100W   YDR490C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR200W   YBR229C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR047C   YDL207W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR047C   YDL116W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR189W   YER157W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR218W   YMR235C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL079W   YFL005W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL242C   YDR264C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL242C   YDR085C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR388W   YDR129C    synthetic lethality. confidence: medium. previously annotated: yes.
+YLR244C   YBL091C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR210W   YDL102W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR210W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YJR060W   YOL145C    synthetic lethality. confidence: medium. previously annotated: no.
+YJR060W   YNL232W    synthetic lethality. confidence: medium. previously annotated: no.
+YJR060W   YKL089W    synthetic lethality. confidence: medium. previously annotated: no.
+YJR060W   YMR168C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR006W   YDR364C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR050C   YDR028C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR254C   YJL034W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR025W   YBR048W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR389W   YFL039C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR389W   YMR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR389W   YBR229C    synthetic lethality. confidence: medium. previously annotated: no.
+YHL007C   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YHL007C   YNL298W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR310C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YBL062W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL322C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL028C   YEL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YLL043W   YHR158C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR127C   YLR079W    synthetic lethality. confidence: medium. previously annotated: no.
+YCL061C   YER016W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR085C   YER016W    synthetic lethality. confidence: medium. previously annotated: no.
+YER008C   YFL005W    synthetic lethality. confidence: medium. previously annotated: no.
+YER008C   YOR122C    synthetic lethality. confidence: medium. previously annotated: no.
+YML115C   YOR089C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR034C   YDR432W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR392W   YAL043C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR392W   YPL082C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR392W   YOR194C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL049C   YJR060W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR349W   YML085C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR398C   YGL173C    synthetic lethality. confidence: medium. previously annotated: no.
+YER095W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL005W   YDR028C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR265W   YDR027C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR265W   YNL153C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR101C   YMR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR101C   YBR229C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL070W   YPR133W-A  synthetic lethality. confidence: medium. previously annotated: yes.
+YGR092W   YAR019C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR092W   YHR152W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR092W   YPR111W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR092W   YLR079W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR092W   YDR146C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR192C   YDL207W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL034W   YGR032W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL034W   YKL073W    synthetic lethality. confidence: medium. previously annotated: no.
+YJR117W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YML026C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YBL079W   YOR098C    synthetic lethality. confidence: medium. previously annotated: yes.
+YBL079W   YJL061W    synthetic lethality. confidence: medium. previously annotated: yes.
+YOR208W   YDL006W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR156W   YNL248C    synthetic lethality. confidence: medium. previously annotated: yes.
+YER114C   YBL085W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL130W   YDL140C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR149W   YPL227C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL065W   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR206W   YDL161W    synthetic lethality. confidence: medium. previously annotated: no.
+YJR118C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YIR006C   YNL084C    synthetic lethality. confidence: medium. previously annotated: no.
+YIR006C   YBL007C    synthetic lethality. confidence: medium. previously annotated: yes.
+YKR002W   YER127W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR194C   YPL082C    synthetic lethality. confidence: medium. previously annotated: no.
+YIR006C   YIL002C    synthetic lethality. confidence: medium. previously annotated: no.
+YIR006C   YER125W    synthetic lethality. confidence: medium. previously annotated: no.
+YER165W   YOL139C    synthetic lethality. confidence: medium. previously annotated: yes.
+YPL018W   YMR094W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL194W   YFL009W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL262W   YJL090C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR010C   YOL006C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL262W   YJR068W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL043C   YBR237W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL043C   YKL074C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL031W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR103C   YBL023C    synthetic lethality. confidence: medium. previously annotated: yes.
+YLR103C   YEL032W    synthetic lethality. confidence: medium. previously annotated: yes.
+YFL037W   YCL029C    synthetic lethality. confidence: medium. previously annotated: no.
+YFL037W   YLR045C    synthetic lethality. confidence: medium. previously annotated: no.
+YFL037W   YDR150W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR118C   YFR028C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR118C   YJL194W    synthetic lethality. confidence: medium. previously annotated: yes.
+YHR118C   YKL022C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR118C   YLR274W    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR200W   YHR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR200W   YBR234C    synthetic lethality. confidence: medium. previously annotated: yes.
+YOR323C   YKL139W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YJL014W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YIL142W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YNL126W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YFL037W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YLR212C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YDL029W    synthetic lethality. confidence: medium. previously annotated: no.
+YFL005W   YGL233W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YML085C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YOR265W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR200W   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR362W   YGL038C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR270W   YER016W    synthetic lethality. confidence: medium. previously annotated: no.
+YBL105C   YER111C    synthetic lethality. confidence: medium. previously annotated: no.
+YBL105C   YNR052C    synthetic lethality. confidence: medium. previously annotated: no.
+YBL105C   YPL084W    synthetic lethality. confidence: medium. previously annotated: no.
+YBL105C   YJR075W    synthetic lethality. confidence: medium. previously annotated: no.
+YBL105C   YGL178W    synthetic lethality. confidence: medium. previously annotated: no.
+YBL105C   YDL055C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL205W   YGL105W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR364C   YGR129W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR023W   YER155C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR023W   YKL079W    synthetic lethality. confidence: medium. previously annotated: yes.
+YOR103C   YPL227C    synthetic lethality. confidence: medium. previously annotated: no.
+YGL206C   YER177W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL206C   YDR099W    synthetic lethality. confidence: medium. previously annotated: no.
+YPR141C   YGL216W    synthetic lethality. confidence: medium. previously annotated: yes.
+YPR141C   YOR195W    synthetic lethality. confidence: medium. previously annotated: no.
+YPR141C   YJL030W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL206C   YDL192W    synthetic lethality. confidence: medium. previously annotated: no.
+YOL149W   YGL213C    synthetic lethality. confidence: medium. previously annotated: no.
+YOL149W   YPR189W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL073W   YHR079C    synthetic lethality. confidence: medium. previously annotated: no.
+YOL149W   YLR398C    synthetic lethality. confidence: medium. previously annotated: no.
+YGL216W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL074C   YKL012W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL074C   YLR116W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL217C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YBR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YOR326W    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YOL076W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR302C   YPR024W    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YOR188W    synthetic lethality. confidence: medium. previously annotated: no.
+YCL029C   YNL189W    synthetic lethality. confidence: medium. previously annotated: no.
+YCL029C   YOR026W    synthetic lethality. confidence: medium. previously annotated: no.
+YCL029C   YML085C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR098C   YMR235C    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YNL079C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR103W   YGL236C    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YFL037W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR103W   YGL178W    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YAL041W    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YFL039C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL183W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL047W   YAL040C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL047W   YKR072C    synthetic lethality. confidence: medium. previously annotated: no.
+YFL029C   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YFL029C   YDL108W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR246W   YLR195C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR252W   YOR290C    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YDR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YER155C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YGL236C   YGL178W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR041C   YOR290C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR041C   YPL016W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL116W   YJL041W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDL116W   YHR004C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL063C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR041C   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YFR028C   YAR019C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL101C   YGR180C    synthetic lethality. confidence: medium. previously annotated: no.
+YLL002W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR107C   YBL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR107C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL063C   YMR235C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR023C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL063C   YGL097W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR129C   YBR234C    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR129C   YNL243W    synthetic lethality. confidence: medium. previously annotated: yes.
+YGL003C   YHR152W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL003C   YLR079W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR129C   YBR085W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR129C   YJL020C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR129C   YJL187C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR129C   YIL034C    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR129C   YOR089C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR129C   YDL143W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR129C   YKL007W    synthetic lethality. confidence: medium. previously annotated: yes.
+YOL115W   YFL008W    synthetic lethality. confidence: medium. previously annotated: no.
+YOL115W   YOL006C    synthetic lethality. confidence: medium. previously annotated: no.
+YOL115W   YNL299W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR080W   YOR089C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR054C   YPL269W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR054C   YGL216W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR054C   YLR305C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR054C   YER016W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR054C   YPR141C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR054C   YEL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR054C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YKR072C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YBR094W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YBR098W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YJR043C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YLR135W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YGL031C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YHR154W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YNL218W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR136W   YGR180C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR234W   YDR138W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR054C   YDR139C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR054C   YJL194W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR054C   YPL003W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR054C   YFL009W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR054C   YDL132W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR054C   YPL256C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR054C   YLR306W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR048W   YMR190C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR048W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR048W   YER016W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL021W   YBR021W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR274C   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL240C   YNL064C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR368W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR320C   YDL192W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR166C   YDR164C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR166C   YOR326W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR166C   YFL005W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL229W   YNL209W    synthetic lethality. confidence: medium. previously annotated: no.
+YER157W   YOR216C    synthetic lethality. confidence: medium. previously annotated: no.
+YER157W   YFL038C    synthetic lethality. confidence: medium. previously annotated: no.
+YER157W   YIL004C    synthetic lethality. confidence: medium. previously annotated: no.
+YER157W   YLR268W    synthetic lethality. confidence: medium. previously annotated: no.
+YER157W   YDL058W    synthetic lethality. confidence: medium. previously annotated: no.
+YER157W   YKL196C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL152W   YIL153W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL218W   YCR067C    synthetic lethality. confidence: medium. previously annotated: no.
+YER105C   YOR098C    synthetic lethality. confidence: medium. previously annotated: yes.
+YER105C   YJL061W    synthetic lethality. confidence: medium. previously annotated: yes.
+YER105C   YBL079W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDL049C   YJL174W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR212W   YDL143W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR212W   YML085C    synthetic lethality. confidence: medium. previously annotated: no.
+YCR048W   YLR242C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL009W   YML103C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL009W   YKL057C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL009W   YDL116W    synthetic lethality. confidence: medium. previously annotated: no.
+YAL009W   YGL100W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR326W   YGL233W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR326W   YOL076W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR326W   YDR166C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR326W   YFL005W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR326W   YPR055W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR326W   YJL187C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR326W   YKL079W    synthetic lethality. confidence: medium. previously annotated: yes.
+YPR066W   YDR054C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL164C   YGL207W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL298W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YCR088W   YNL243W    synthetic lethality. confidence: medium. previously annotated: yes.
+YGR009C   YOR122C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR009C   YLR166C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR009C   YOR326W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL041W   YKL205W    synthetic lethality. confidence: medium. previously annotated: no.
+YCR088W   YBL007C    synthetic lethality. confidence: medium. previously annotated: yes.
+YHR142W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YCR088W   YDR129C    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR081C   YOR290C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL241C   YML085C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL241C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL241C   YEL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL058W   YGR120C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL002C   YPL227C    synthetic lethality. confidence: medium. previously annotated: no.
+YML032C   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR043W   YNL032W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR109W   YNL106C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR109W   YIL002C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL054W   YOR297C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR104C   YKL126W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL227C   YGL226C-A  synthetic lethality. confidence: medium. previously annotated: no.
+YBR082C   YDR177W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR082C   YMR022W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR188C   YLL036C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL020C   YIL075C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL020C   YFR052W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL020C   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL020C   YHR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL233W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YNR019W   YLR242C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YNL272C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YNL287W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YFL038C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YIL004C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YFL005W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YBR080C    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YLR268W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR068C   YBL050W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR060C   YDL017W    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR060C   YPR019W    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR060C   YMR001C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR060C   YLR103C    synthetic lethality. confidence: medium. previously annotated: yes.
+YMR109W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR102W   YOR257W    synthetic lethality. confidence: medium. previously annotated: no.
+YER173W   YOR217W    synthetic lethality. confidence: medium. previously annotated: no.
+YER173W   YNL102W    synthetic lethality. confidence: medium. previously annotated: no.
+YFL038C   YGR120C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR288C   YOR089C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR288C   YBR097W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR288C   YDR495C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR288C   YGL095C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YOR349W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YOR269W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YJL030W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YDR150W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YPL155C    synthetic lethality. confidence: medium. previously annotated: yes.
+YEL061C   YOR026W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YGL086W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YJL013C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YHR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YGR188C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YPL209C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YPL174C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YMR055C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YCL029C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YMR294W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YGR078C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL061C   YDR488C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR388W   YNL243W    synthetic lethality. confidence: medium. previously annotated: yes.
+YMR198W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YBR015C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YDL006W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YNL079C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR388W   YOR089C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YHR107C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YHR158C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YPL084W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YGR238C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR388W   YNL138W    synthetic lethality. confidence: medium. previously annotated: yes.
+YHR030C   YBR109C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR388W   YFL039C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR030C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR507C   YHR107C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL126W   YNL031C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL126W   YGR116W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL269W   YMR294W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL269W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL269W   YCL029C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL269W   YHR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR507C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YFL039C   YCR009C    synthetic lethality. confidence: medium. previously annotated: no.
+YFL039C   YKL212W    synthetic lethality. confidence: medium. previously annotated: no.
+YFL039C   YDL143W    synthetic lethality. confidence: medium. previously annotated: no.
+YCR038C   YBR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR290C   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YFL039C   YOR122C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL002C   YPL227C    synthetic lethality. confidence: medium. previously annotated: no.
+YEL002C   YBL082C    synthetic lethality. confidence: medium. previously annotated: no.
+YGL244W   YJR060W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR071C   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL119W   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YJL187C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YOL006C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YDR363W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YJL092W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL064C   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YNL016W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YHR134W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YBR228W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YJL115W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YER070W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YJR104C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YGL175C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR190C   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL064C   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YFR036W   YKL022C    synthetic lethality. confidence: medium. previously annotated: yes.
+YFR036W   YHR166C    synthetic lethality. confidence: medium. previously annotated: yes.
+YIL147C   YOR208W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR139C   YIL030C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR264C   YBR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YBL061C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR208W   YNL006W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR208W   YGR208W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR208W   YKL176C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR208W   YCR053W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR208W   YJR139C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR208W   YGR057C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR386W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR386W   YMR190C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR138W   YOL006C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR138W   YNL088W    synthetic lethality. confidence: medium. previously annotated: no.
+YML097C   YBR288C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR138W   YKR010C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL194W   YIR008C    synthetic lethality. confidence: medium. previously annotated: no.
+YPL194W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL098W   YAL040C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR084C-A YBL027W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDR245W   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR245W   YIL034C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR245W   YDR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR106C   YDL220C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL068W   YDL207W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL068W   YER107C    synthetic lethality. confidence: medium. previously annotated: yes.
+YLR153C   YAL054C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL220C   YMR284W    synthetic lethality. confidence: medium. previously annotated: no.
+YJR090C   YKL048C    synthetic lethality. confidence: medium. previously annotated: no.
+YJR090C   YGL190C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR182W   YER111C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR158C   YMR232W    synthetic lethality. confidence: medium. previously annotated: no.
+YAL020C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR170C   YGL206C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR323C   YBR288C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR085W   YPL227C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL102W   YHR118C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL102W   YJR006W    synthetic lethality. confidence: medium. previously annotated: yes.
+YDL102W   YJR043C    synthetic lethality. confidence: medium. previously annotated: yes.
+YDL102W   YER173W    synthetic lethality. confidence: medium. previously annotated: no.
+YDL102W   YJR068W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR254W   YMR094W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR122C   YFL005W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR122C   YNL243W    synthetic lethality. confidence: medium. previously annotated: yes.
+YOR122C   YJL187C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR122C   YPR055W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR229C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR035C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YOL051W   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YOL051W   YOR290C    synthetic lethality. confidence: medium. previously annotated: no.
+YOL051W   YPL016W    synthetic lethality. confidence: medium. previously annotated: no.
+YOL018C   YBR127C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR140W   YMR094W    synthetic lethality. confidence: medium. previously annotated: yes.
+YGR140W   YKL089W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR140W   YJR060W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL048C   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL048C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YPR159W   YGL027C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR113C   YGR098C    synthetic lethality. confidence: medium. previously annotated: yes.
+YGL008C   YBL069W    synthetic lethality. confidence: medium. previously annotated: no.
+YFR019W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YNR006W   YBR288C    synthetic lethality. confidence: medium. previously annotated: no.
+YER148W   YPR086W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YKR072C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YMR038C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YHR010W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YPR116W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YDR369C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YGL163C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YBR098W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YDR076W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YDR363W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YDR217C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YER173W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YJL092W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YDR004W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YBR215W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YOL068C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR212C   YEL003W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YOR025W    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YMR224C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YJR104C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YGL175C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL113C   YNL171C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR212C   YMR055C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR212C   YNL153C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR212C   YGR078C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL090C   YPR175W    synthetic lethality. confidence: medium. previously annotated: no.
+YOR188W   YBR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YML124C   YOR349W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL079C   YJL187C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL079C   YCL037C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL079C   YOR326W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL079C   YOL076W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL116W   YEL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YGL124C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YER007W   YML124C    synthetic lethality. confidence: medium. previously annotated: no.
+YER007W   YML085C    synthetic lethality. confidence: medium. previously annotated: no.
+YER007W   YEL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YER083C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YER149C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL132W   YJL194W    synthetic lethality. confidence: medium. previously annotated: no.
+YER107C   YGL092W    synthetic lethality. confidence: medium. previously annotated: yes.
+YER107C   YDL207W    synthetic lethality. confidence: medium. previously annotated: no.
+YFR040W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YHL027W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL007W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YFR040W   YAL040C    synthetic lethality. confidence: medium. previously annotated: no.
+YFL023W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YPR135W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR307W   YPR159W    synthetic lethality. confidence: medium. previously annotated: no.
+YGR104C   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR078C   YJL020C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR078C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR078C   YOR265W    synthetic lethality. confidence: medium. previously annotated: no.
+YEL024W   YDL207W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR061W   YOL123W    synthetic lethality. confidence: medium. previously annotated: yes.
+YMR307W   YBL105C    synthetic lethality. confidence: medium. previously annotated: no.
+YJR075W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL046W   YDR054C    synthetic lethality. confidence: medium. previously annotated: yes.
+YGL073W   YBR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YGL240W   YFR036W    synthetic lethality. confidence: medium. previously annotated: yes.
+YBL103C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YGL240W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YJR042W   YOR160W    synthetic lethality. confidence: medium. previously annotated: no.
+YJR042W   YHR004C    synthetic lethality. confidence: medium. previously annotated: no.
+YJR042W   YPL169C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL250W   YMR190C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL250W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR036W   YBR288C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YBL062W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YHR142W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YAL026C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YLR425W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YNL289W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YDR150W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YMR299C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YLR262C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YBR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YHR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL236W   YOR153W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL236W   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YKR047W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YIL159W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YDR424C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YBR023C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YOR058C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YOR327C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YPL161C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YKR048C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YHR111W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YFR019W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YJL095W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YDR149C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YOR269W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YLR190W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YBL007C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YNL298W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YNL233W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YBL061C    synthetic lethality. confidence: medium. previously annotated: no.
+YCL004W   YER026C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR059C   YBR082C    synthetic lethality. confidence: medium. previously annotated: no.
+YDL030W   YBR237W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YDL117W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YJL020C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YPL086C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YJL187C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YLR319C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YMR032W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YPL174C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YGR229C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YMR294W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YDR488C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL271C   YLR330W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL203W   YBR237W    synthetic lethality. confidence: medium. previously annotated: no.
+YKR086W   YDR364C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR170W   YGL173C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL126W   YDR356W    synthetic lethality. confidence: medium. previously annotated: yes.
+YGR200C   YJL020C    synthetic lethality. confidence: medium. previously annotated: no.
+YJR043C   YBR088C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YEL003W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YNL097C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YDR150W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YLR381W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YJR053W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YBR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YDR289C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YDR318W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YHR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YBR095C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGL216W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YOR195W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YOR058C    synthetic lethality. confidence: medium. previously annotated: yes.
+YER016W   YBR107C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YMR263W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YNL170W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGL217C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL014W   YEL003W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL014W   YDL143W    synthetic lethality. confidence: medium. previously annotated: yes.
+YER016W   YNL106C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGL173C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YLR386W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YFR019W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YNL153C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YHR191C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YPL017C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YJR135C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YDR149C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YOR269W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YJL030W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YBR231C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YNL215W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YOR026W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGL086W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YJL013C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGL163C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YDR254W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YLR373C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YNL307C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGR188C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YML095C-A  synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YML016C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YCL016C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YMR055C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YPL018W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGR229C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGL211W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YMR294W    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YDR488C    synthetic lethality. confidence: medium. previously annotated: no.
+YER016W   YGR200C    synthetic lethality. confidence: medium. previously annotated: no.
+YOR045W   YNL070W    synthetic lethality. confidence: medium. previously annotated: yes.
+YGL252C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YGL211W   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL023C   YJR143C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL023C   YOR321W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL014W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR081C   YKL093W    synthetic lethality. confidence: medium. previously annotated: no.
+YAL040C   YOL145C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL040C   YDL132W    synthetic lethality. confidence: medium. previously annotated: no.
+YAL040C   YKL092C    synthetic lethality. confidence: medium. previously annotated: no.
+YAL040C   YKR028W    synthetic lethality. confidence: medium. previously annotated: no.
+YAL030W   YOR327C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR162C   YGR118W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR162C   YIL034C    synthetic lethality. confidence: medium. previously annotated: no.
+YDR162C   YHR012W    synthetic lethality. confidence: medium. previously annotated: no.
+YDR162C   YML095C-A  synthetic lethality. confidence: medium. previously annotated: no.
+YBR289W   YGR252W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR289W   YOL148C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR200C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL135C   YDR162C    synthetic lethality. confidence: medium. previously annotated: no.
+YCR034W   YLR372W    synthetic lethality. confidence: medium. previously annotated: no.
+YNR038W   YKR024C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL272C   YOR326W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR186W   YOR027W    synthetic lethality. confidence: medium. previously annotated: no.
+YMR186W   YNL064C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR234C   YPL234C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR234C   YBR171W    synthetic lethality. confidence: medium. previously annotated: no.
+YBR234C   YLR337C    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR234C   YOR216C    synthetic lethality. confidence: medium. previously annotated: no.
+YBR234C   YLR268W    synthetic lethality. confidence: medium. previously annotated: no.
+YPR072W   YER068W    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR234C   YER122C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL148W   YDR156W    synthetic lethality. confidence: medium. previously annotated: yes.
+YBR234C   YLR330W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL272C   YKL079W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL272C   YOR122C    synthetic lethality. confidence: medium. previously annotated: no.
+YIL002C   YNL106C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR305C   YHR129C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR305C   YMR294W    synthetic lethality. confidence: medium. previously annotated: no.
+YIR033W   YKL020C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR103W   YDR351W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR288C   YIR008C    synthetic lethality. confidence: medium. previously annotated: no.
+YHR031C   YMR190C    synthetic lethality. confidence: medium. previously annotated: no.
+YIR008C   YPL153C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR342W   YHR030C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR342W   YLR433C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR342W   YML057W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR342W   YKL190W    synthetic lethality. confidence: medium. previously annotated: no.
+YLR342W   YBL105C    synthetic lethality. confidence: medium. previously annotated: no.
+YLR342W   YGR032W    synthetic lethality. confidence: medium. previously annotated: yes.
+YML102W   YKL113C    synthetic lethality. confidence: medium. previously annotated: no.
+YGR080W   YLL050C    synthetic lethality. confidence: medium. previously annotated: yes.
+YHR129C   YNL189W    synthetic lethality. confidence: medium. previously annotated: no.
+YHR129C   YOR098C    synthetic lethality. confidence: medium. previously annotated: no.
+YMR129W   YFR002W    synthetic lethality. confidence: medium. previously annotated: yes.
+YMR199W   YAL040C    synthetic lethality. confidence: medium. previously annotated: yes.
+YML103C   YMR129W    synthetic lethality. confidence: medium. previously annotated: yes.
+YML103C   YER105C    synthetic lethality. confidence: medium. previously annotated: yes.
+YBL051C   YNL271C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL099W   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YNL153C   YBR234C    synthetic lethality. confidence: medium. previously annotated: no.
+YKL057C   YHR004C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YIL084C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YBL007C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YLR235C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YPL086C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YBR200W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YIL034C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YML095C-A  synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YPL161C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YNL098C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YKL007W    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YNL153C    synthetic lethality. confidence: medium. previously annotated: no.
+YJL020C   YLR330W    synthetic lethality. confidence: medium. previously annotated: no.
+YNL121C   YMR060C    synthetic lethality. confidence: medium. previously annotated: yes.
+YLR229C   YAL041W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL212C   YKL205W    synthetic lethality. confidence: medium. previously annotated: no.
+YPL212C   YJL041W    synthetic lethality. confidence: medium. previously annotated: no.

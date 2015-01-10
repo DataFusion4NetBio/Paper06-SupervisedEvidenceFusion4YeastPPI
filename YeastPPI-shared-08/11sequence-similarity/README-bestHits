@@ -1,0 +1,41 @@
+This directory contains the results of NCBI BLASTP analysis using each
+S. cerevisiae protein sequence to query predicted protein sequences
+from several model organisms.
+
+Model Organism BLASTP Best Hits results for individual genes may be
+viewed by accessing the 'Model Organism BLASTP Best Hits' link in the
+Comparison Resources pull-down menu of each SGD Locus Page.
+
+The analysis is described in detail at
+http://www.yeastgenome.org/help/bestHits.html
+
+==================
+best_hits.tab
+==================
+
+The columns of this tab-delimited file contain the following information:
+
+1) S. cerevisiae systematic name 
+
+2) start coordinate (amino acid position) of aligned region of query
+sequence (S. cerevisiae protein sequence)
+
+3) stop coordinate (amino acid position) of aligned region of query
+sequence (S. cerevisiae protein sequence)
+
+4) start coordinate (amino acid position) of aligned region of target
+sequence
+
+5) stop coordinate (amino acid position) of aligned region of target
+sequence
+
+6) percent aligned (percent of the length of the query gene contained
+in the aligned region)
+
+7) score (natural log value of the Expectation value)
+
+8) target gene identifier 
+
+9) taxon id for species of origin of target sequence
+
+10) species name for species of origin of target sequence

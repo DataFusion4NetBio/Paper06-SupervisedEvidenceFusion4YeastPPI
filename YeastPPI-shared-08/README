@@ -1,0 +1,47 @@
+-------------------------------------
+
+copyright @ Yanjun Qi , qyj@cs.cmu.edu
+
+-------------------------------------
+
+Please cite: 
+
+==>  Major: 
+Y. Qi, Z. Bar-Joseph, J. Klein-Seetharaman, "Evaluation of different biological data and computational classification methods for use in protein interaction prediction", PROTEINS: Structure, Function, and Bioinformatics. 63(3):490-500. 2006
+
+==> Two related papers: 
+Y. Qi, J. Klein-Seetharaman, Z. Bar-Joseph, "A mixture of feature experts approach for protein-protein interaction prediction", BMC Bioinformatics 8 (S10):S6, 2007 
+Y. Qi, J. Klein-Seetharaman, Z. Bar-Joseph, “Random Forest Similarity for Protein-Protein Interaction Prediction from Multiple source”, Pacific Symposium on Biocomputing 10: (PSB 2005) Jan. 2005. 
+
+
+---------------------------------------
+
+
+You can find the detailed description in URL: 
+
+http://www.cs.cmu.edu/~qyj/papers_sulp/proteins05_PPI.html
+http://www.cs.cmu.edu/~qyj/papers_sulp/proteins05_pages/feature-download.html
+
+
+---------------------------------------
+
+
+The files we used to extract features for yeast protein pairs 
+were downloaded from different related papers. 
+You should be able to find more recent/upated new version 
+( than those shared in this directory ) from the internet.
+
+---------------------------------------
+
+HOW TO USE?
+
+- You could use codes and ORF_list in ./0yeast_gene_list
+   to generate your reference protein pairs list 
+   
+- You could use the scripts 
+  "Batch_feature_summary_ExtractWrapper.pl" and "Batch_feature_ExtractWrapper.pl"
+  to generate features for a file containing a list of yeast pairs. 
+  
+- In each line of this file, 
+  ORF1	ORF2	1/0 
+  The last item means this is positive protein-protein interaction pair(1) or not (0). 

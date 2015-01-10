@@ -1,0 +1,90 @@
+1.	? we have 21 go function features
+2.	? we have 33 go process features
+3.	? we have 23 go component features
+
+
+ -----   22 yeast slim functions !   ---- 
+molecular_function unknown => 1
+lyase activity => 1
+transporter activity => 1
+transcription regulator activity => 1
+transferase activity => 1
+DNA binding => 1
+motor activity => 1
+peptidase activity => 1
+oxidoreductase activity => 1
+translation regulator activity => 1
+RNA binding => 1
+hydrolase activity => 1
+isomerase activity => 1
+helicase activity => 1
+protein kinase activity => 1
+ligase activity => 1
+signal transducer activity => 1
+enzyme regulator activity => 1
+protein binding => 1
+structural molecule activity => 1
+phosphoprotein phosphatase activity => 1
+nucleotidyltransferase activity => 1
+
+ -----   34 yeast slim processes !   ---- 
+transport => 1
+sporulation => 1
+energy pathways => 1
+DNA metabolism => 1
+coenzymes and prosthetic group metabolism => 1
+vitamin metabolism => 1
+protein catabolism => 1
+protein biosynthesis => 1
+electron transport => 1
+carbohydrate metabolism => 1
+cell homeostasis => 1
+amino acid and derivative metabolism => 1
+protein modification => 1
+morphogenesis => 1
+cytokinesis => 1
+organelle organization and biogenesis => 1
+ribosome biogenesis and assembly => 1
+RNA metabolism => 1
+budding => 1
+transcription => 1
+cell wall organization and biogenesis => 1
+response to stress => 1
+meiosis => 1
+signal transduction => 1
+cellular respiration => 1
+vesicle-mediated transport => 1
+pseudohyphal growth => 1
+cytoskeleton organization and biogenesis => 1
+biological_process unknown => 1
+conjugation => 1
+cell cycle => 1
+lipid metabolism => 1
+membrane organization and biogenesis => 1
+nuclear organization and biogenesis => 1
+
+ -----   24 yeast slim components !   ---- 
+mitochondrion => 1
+ribosome => 1
+site of polarized growth => 1
+bud => 1
+microtubule organizing center => 1
+cell cortex => 1
+cell wall => 1
+chromosome => 1
+nucleus => 1
+plasma membrane => 1
+mitochondrial membrane => 1
+membrane fraction => 1
+endomembrane system => 1
+cellular_component unknown => 1
+endoplasmic reticulum => 1
+Golgi apparatus => 1
+peroxisome => 1
+vacuole => 1
+cytoplasm => 1
+cytoplasmic vesicle => 1
+extracellular => 1
+nucleolus => 1
+cytoskeleton => 1
+membrane => 1

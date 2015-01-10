@@ -1,0 +1,230 @@
+11       Actins
+
+21       Actin related proteins
+
+31       Adaptins
+31.11                 alpha
+31.21                 beta
+31.31                 gamma
+
+41       ATPases
+41.11                 AAA (ATPases Associated with cellular Activities) protein superfamily
+41.11.11                           proteasome subunits
+41.11.21                           metalloproteases
+41.11.31                           involved in secretion
+41.11.41                           peroxisomes
+41.11.51                           involved in centrosome function and ER homotypic function
+41.11.61                           involved in meiosis and mitochondrial function
+41.21                 ABC transporter
+41.31                 ion-transport ATPases
+41.41                 DNA-dependent ATPases
+41.51                 RNA-dependent ATPases
+41.61                 other ATPases
+
+51       Cyclins
+51.11                 CLNs
+51.21                 CLBs
+51.31                 PCLs
+51.41                 other Cyclins
+
+55	Dehydrogenases
+55.11			aldehyde dehydrogenases
+
+
+61       GTP-binding proteins
+61.11                 trimeric GTP-proteins
+61.11.11                           alpha subunits
+61.11.21                           beta subunits
+61.11.31                           gamma subunits
+61.11.41                           regulators of G-protein signaling (RGS proteins)
+61.21                 small GTP-binding proteins (RAS superfamily)
+61.21.11                           ARF
+61.21.21                           RAB
+61.21.31                           RAN
+61.21.41                           RAS
+61.21.51                           RHO
+61.21.99                           other small GTP-binding proteins
+61.31                 GTP-binding proteins involved in protein synthesis
+61.99                 other GTP-binding proteins  
+
+71       GTP/GDP-exchange factors (GEFs)
+71.11                 ARF-GEFs
+71.21                 RAB-GEFs
+71.31                 RAN-GEFs
+71.41                 RAS-GEFs
+71.51                 RHO-GEFs
+71.99                 other GEFs
+
+81       GTPase activating proteins (GAPs)
+81.11                 ARF-GAPs
+81.21                 RAB-GAPs
+81.31                 RAN-GAPs
+81.41                 RAS-GAPs
+81.51                 RHO-GAPs
+81.99                 other GAPs
+
+91       GTP/GDP dissociation inhibitors (GDIs)
+91.11                 ARF-GDIs
+91.21                 RAB-GDIs
+91.31                 RAN-GDIs
+91.41                 RAS-GDIs
+91.51                 RHO-GDIs
+91.99                 other GDIs
+
+101      Molecular chaperones
+101.11                Chaperonins
+101.11.11                          GroEL-related proteins (HSP60 family)
+101.11.21                          GroES-related proteins
+101.11.31                          TRiC-related proteins (TCP-1 ring complex)
+101.21                HSP70 family
+101.21.11                          DnaK subfamily
+101.21.21                          HSP110/Sse subfamily
+101.31                HSP90 family
+101.41                HSP100/Clp family
+101.51                small HSPs
+101.61                DnaJ-related proteins
+101.71                GrpE-related proteins
+101.81                14-3-3 proteins
+101.91                Calnexin-related proteins
+101.99                other molecular chaperones
+
+112      Histones
+112.11                H1
+112.21                H2
+112.31                H3
+112.41                H4
+
+115      Histone acetyltransferases and Histone deacetyltransferases
+115.11                Acetylases
+115.21                Deacetylases
+                      
+121      Major facilitator superfamily proteins (MFS)
+
+131      Motorproteins
+131.11                 Dyneins
+131.11.11                          light chains
+131.11.21                          heavy chains
+131.11.31                          Dynein related proteins
+131.21                 Kinesines
+131.31                 Myosins
+131.31.11                          Class I
+131.31.21                          Class II
+131.31.31                          Class V
+
+135      Nucleases
+135.11                 Endonucleases
+135.21                 Exonucleases
+135.21.11                          3'->5' exoribonucleases
+
+141      Polymerases
+141.11                DNA-directed DNA polymerases
+141.11.11                          catalytic subunits
+141.11.21                          associated subunits
+141.21                DNA directed RNA polymerases
+141.21.11                          catalytic subunits
+141.21.21                          associated subunits
+
+146      Peptidyl-Prolyl-Isomerases
+146.11                Cyclophylins
+146.21                FKBPs
+146.31                Parvulins
+
+151      Proteases
+
+161      Protein Kinases
+161.11                AGC group
+161.11.11                          PKA family (cAMP dependent)
+161.11.21                          PKC family
+161.11.31                          AGC family
+161.11.41                          S6K (70kDa) family
+161.11.51                          DBF2 family
+161.11.61                          PKA-related family
+161.11.99                          other AGC group protein kinases
+
+161.21                CaMK group
+161.21.11                          CAMK family (Ca2+-CaM regulated)
+161.21.21                          KIN1/SNF1 family
+161.21.31                          GIN4 family
+161.21.99                          other CaMK group protein kinases
+
+161.31                CMGC group
+161.31.11                          CDK family
+161.31.21                          MAPK family
+161.31.31                          GSK3 family
+161.31.41                          CLK family
+161.31.99                          other CMGC group protein kinases
+
+161.41.               OPG group
+161.41.11                          Casein kinase I family
+161.41.21                          Casein kinase II family
+161.41.31                          ELM family
+161.41.41                          NEK-like family
+161.41.51                          NIMA/NEK family
+161.41.61                          NPR/HAL5 family
+161.41.71                          NRK/MESS family
+161.41.81                          PIM-like family
+161.41.91                          RAN family
+161.41.101                         STE7/MEK family
+161.41.111                         STE11/MEKK family
+161.41.121                         STE20/PAK family
+161.41.999                         other OPG group protein kinases
+
+161.51                Unique S.cerevisiae kinases
+161.51.11                          with possible homologues in other organisms
+161.51.21                          without homologues
+
+161.61                unusual protein kinases
+
+
+171      Other kinases
+171.11                Phosphatidylinositol kinases
+171.21                Guanylate kinases
+171.31                Histidin protein kinases
+171.99                other kinases       
+
+181      Protein phosphatases
+181.11                catalytic subunits
+181.11.11                          PPP family
+181.11.21                          PP2C family
+181.11.31                          PTP family (dual specificity)
+181.21                with PPase function associated proteins
+181.21.11                          PP1-associated
+181.21.21                          PP2A-associated
+181.21.31                          Sit4p-associated
+181.21.41                          PP2B-associated
+
+191      Ubiquitin-system proteins
+191.11                Ubiquitin
+191.21                Ubiquitin-activating enzymes (E1)
+191.31                Ubiquitin-conjugating enzymes (E2)
+191.41                Ubiquitin-protein ligases (E3)
+191.51                Deubiquitinating enzymes
+191.99                other ubiquitin-system proteins
+
+201      Transcription factors
+201.11                Basic domains
+201.11.11                        Leucine zipper factors
+201.11.11.11                           bZIP (Yap-like proteins)
+201.11.21                        Helix-loop-helix factors (bHLH)
+201.11.31                        Helix-loop-helix/leucine zipper factors (bHLH-ZIP)
+201.11.61                        Heteromeric CCAAT factors
+201.21                Zinc-coordinating DNA-binding domains     
+201.21.11                        Cys4 zinc-fingers
+201.21.21                        Cys2His2 zinc-finger
+201.21.31                        Cys6 cysteine-zinc cluster
+201.21.99                        other zinc-coordinating DNA-binding domains     
+201.31                Helix-turn-helix
+201.31.11                        Homeodomain
+201.31.21                        Fork head/winged helix
+201.31.31                        Heat shock factors
+201.31.41                        Tryptophan clusters
+201.31.51                        TEA domain
+201.41                 beta-scaffold factors with minor groove contacts
+201.41.31                        MADS box
+201.41.61                        HMG
+201.99                 other transcription factors
+
+211      Tubulins
+211.11                alpha
+211.21                beta
+211.31                gamma

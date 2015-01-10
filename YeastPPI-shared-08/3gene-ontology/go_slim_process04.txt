@@ -1,0 +1,41 @@
+!version: $Revision: 1.1 $
+!GO_slim_name: yeast go_slim
+!GO_slim_version: 1.0
+!GO_slim_date: Fri Sep 03 16:32:00 BST 2004
+!GO_slim_authors: SGD curators
+!GO_slim_author_contact: yeast-curator@genome.stanford.edu
+!biological_process ; GO:0008150
+amino acid and derivative metabolism ; GO:0006519
+biological_process unknown ; GO:0000004
+budding ; GO:0007114
+carbohydrate metabolism ; GO:0005975
+cell cycle ; GO:0007049 ; synonym:cell-division cycle
+meiosis ; GO:0007126
+cell homeostasis ; GO:0019725
+cell wall organization and biogenesis ; GO:0007047
+coenzymes and prosthetic group metabolism ; GO:0006731
+conjugation ; GO:0000746
+cytokinesis ; GO:0000910
+DNA metabolism ; GO:0006259
+electron transport ; GO:0006118 ; synonym:electron transfer
+energy pathways ; GO:0006091
+cellular respiration ; GO:0045333 ; synonym:oxidative metabolism ; synonym:respiration
+lipid metabolism ; GO:0006629
+membrane organization and biogenesis ; GO:0016044
+morphogenesis ; GO:0009653
+pseudohyphal growth ; GO:0007124
+nuclear organization and biogenesis ; GO:0006997
+organelle organization and biogenesis ; GO:0006996
+cytoskeleton organization and biogenesis ; GO:0007010
+protein biosynthesis ; GO:0006412, GO:0006416, GO:0006453 ; synonym:translation
+protein catabolism ; GO:0030163 ; synonym:protein degradation
+protein modification ; GO:0006464
+response to stress ; GO:0006950
+ribosome biogenesis and assembly ; GO:0042254
+RNA metabolism ; GO:0016070
+signal transduction ; GO:0007165
+sporulation ; GO:0030435
+transcription ; GO:0006350
+transport ; GO:0006810
+vesicle-mediated transport ; GO:0016192
+vitamin metabolism ; GO:0006766

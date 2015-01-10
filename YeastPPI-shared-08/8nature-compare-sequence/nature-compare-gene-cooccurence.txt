@@ -1,0 +1,997 @@
+YER090W   YKL211C    gene neighborhood (16) gene fusion (4) gene cooccurence TAP (1) synexpression. confidence: high. previously annotated: yes.
+YGL026C   YKL211C    gene neighborhood (13) gene cooccurence HMS-PCI (1) synexpression. confidence: high. previously annotated: no.
+YGL220W   YDR098C    gene neighborhood (3) gene cooccurence HMS-PCI (1) two-hybrid (3). confidence: high. previously annotated: no.
+YBR126C   YDR074W    gene neighborhood (4) gene fusion (1) gene cooccurence TAP (1) synexpression. confidence: high. previously annotated: yes.
+YFR030W   YJR137C    gene neighborhood (13) gene fusion (11) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YDR298C   YBR039W    gene neighborhood (18) gene cooccurence HMS-PCI (1). confidence: high. previously annotated: yes.
+YDR354W   YKL211C    gene neighborhood (14) gene fusion (3) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YER178W   YBR221C    gene neighborhood (14) gene fusion (1) gene cooccurence TAP (3). confidence: high. previously annotated: yes.
+YJR121W   YBL099W    gene neighborhood (17) gene cooccurence synexpression. confidence: high. previously annotated: yes.
+YER090W   YDR354W    gene neighborhood (13) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YDL185W   YOR332W    gene neighborhood (11) gene cooccurence HMS-PCI (2). confidence: high. previously annotated: no.
+YKL182W   YPL231W    gene neighborhood (10) gene fusion (2) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YGL026C   YDR354W    gene neighborhood (11) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YDL185W   YEL051W    gene neighborhood (10) gene cooccurence HMS-PCI (1). confidence: high. previously annotated: no.
+YOR332W   YEL051W    gene neighborhood (9) gene cooccurence TAP (2). confidence: high. previously annotated: yes.
+YCL030C   YOR202W    gene neighborhood (9) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YBR256C   YDR487C    gene neighborhood (9) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YMR189W   YAL044C    gene neighborhood (9) gene cooccurence synexpression. confidence: high. previously annotated: yes.
+YOR332W   YOR270C    gene neighborhood (9) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YAL044C   YDR019C    gene neighborhood (8) gene cooccurence synexpression. confidence: high. previously annotated: yes.
+YOL058W   YHR018C    gene neighborhood (8) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YDR158W   YER052C    gene neighborhood (8) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YGR020C   YOR332W    gene neighborhood (7) gene cooccurence TAP (2). confidence: high. previously annotated: yes.
+YGR020C   YLR447C    gene neighborhood (7) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YBR127C   YLR447C    gene neighborhood (7) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YMR189W   YDR019C    gene neighborhood (7) gene cooccurence synexpression. confidence: high. previously annotated: yes.
+YOR270C   YEL051W    gene neighborhood (7) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YLR447C   YOR270C    gene neighborhood (7) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YGR020C   YEL051W    gene neighborhood (6) gene cooccurence TAP (2). confidence: high. previously annotated: yes.
+YGR020C   YOR270C    gene neighborhood (6) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YER069W   YOL140W    gene neighborhood (6) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YEL011W   YPR160W    gene neighborhood (5) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YML100W   YDR074W    gene neighborhood (4) gene fusion (1) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YLR447C   YEL051W    gene neighborhood (5) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YMR261C   YDR074W    gene neighborhood (4) gene fusion (1) gene cooccurence TAP (1). confidence: high. previously annotated: yes.
+YLR355C   YJR016C    gene neighborhood (4) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YER174C   YGL220W    gene neighborhood (3) gene cooccurence HMS-PCI (1). confidence: high. previously annotated: no.
+YGL234W   YGR061C    gene neighborhood (3) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YCL030C   YHR018C    gene neighborhood (2) gene cooccurence synexpression. confidence: high. previously annotated: no.
+YPL211W   YHR088W    gene cooccurence TAP (2). confidence: high. previously annotated: no.
+YHR033W   YIL033C    gene cooccurence HMS-PCI (2). confidence: high. previously annotated: no.
+YOL058W   YOL140W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YLR438W   YHR018C    gene cooccurence HMS-PCI (1). confidence: high. previously annotated: no.
+YER090W   YJR109C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YIL116W   YDL182W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YJR109C   YKL211C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YKL182W   YDR127W    gene cooccurence TAP (1). confidence: high. previously annotated: no.
+YGR267C   YPR191W    gene cooccurence HMS-PCI (1). confidence: high. previously annotated: no.
+YOR202W   YGL026C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YCL030C   YGL026C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YCL030C   YOL058W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YIL116W   YER069W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YOR202W   YHR018C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YCL009C   YCL030C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YLR438W   YCR053W    gene cooccurence HMS-PCI (1). confidence: high. previously annotated: no.
+YLR355C   YGL026C    gene cooccurence HMS-PCI (1). confidence: high. previously annotated: no.
+YDR354W   YJR016C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YIL116W   YOL058W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YMR229C   YIL033C    gene cooccurence HMS-PCI (1). confidence: high. previously annotated: no.
+YOL058W   YOR202W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YIL116W   YNL104C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YJR109C   YNL220W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YIL116W   YHR018C    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YBR256C   YDR127W    gene cooccurence synexpression. confidence: high. previously annotated: no.
+YMR217W   YLR126C    gene neighborhood (3) gene fusion (20) gene cooccurence. confidence: medium. previously annotated: no.
+YER090W   YNR033W    gene neighborhood (16) gene fusion (4) gene cooccurence. confidence: medium. previously annotated: no.
+YNR033W   YKL211C    gene neighborhood (16) gene fusion (4) gene cooccurence. confidence: medium. previously annotated: no.
+YEL015W   YKL151C    gene fusion (18) gene cooccurence. confidence: medium. previously annotated: no.
+YBR039W   YBL099W    gene neighborhood (18) gene cooccurence. confidence: medium. previously annotated: yes.
+YDR298C   YBL099W    gene neighborhood (18) gene cooccurence. confidence: medium. previously annotated: yes.
+YOR142W   YGR244C    gene neighborhood (18) gene cooccurence. confidence: medium. previously annotated: yes.
+YNL200C   YKL151C    gene fusion (18) gene cooccurence. confidence: medium. previously annotated: no.
+YJR121W   YDL004W    gene neighborhood (18) gene cooccurence. confidence: medium. previously annotated: yes.
+YJR121W   YBR039W    gene neighborhood (18) gene cooccurence. confidence: medium. previously annotated: yes.
+YNR033W   YDR354W    gene neighborhood (14) gene fusion (3) gene cooccurence. confidence: medium. previously annotated: no.
+YJL045W   YLL041C    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: no.
+YJR051W   YLL041C    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: no.
+YJR121W   YDR298C    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: yes.
+YLL041C   YEL047C    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: no.
+YDL004W   YBL099W    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: yes.
+YDL004W   YDR298C    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: yes.
+YDL004W   YBR039W    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: yes.
+YKL148C   YLL041C    gene neighborhood (17) gene cooccurence. confidence: medium. previously annotated: yes.
+YBR208C   YBL080C    gene neighborhood (15) gene cooccurence. confidence: medium. previously annotated: no.
+YPR004C   YGR207C    gene neighborhood (14) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YDR242W   YBL080C    gene neighborhood (15) gene cooccurence. confidence: medium. previously annotated: no.
+YBL080C   YMR293C    gene neighborhood (15) gene cooccurence. confidence: medium. previously annotated: no.
+YNR016C   YBR208C    gene neighborhood (11) gene fusion (4) gene cooccurence. confidence: medium. previously annotated: no.
+Q0105   YEL024W    gene neighborhood (15) gene cooccurence. confidence: medium. previously annotated: yes.
+YDR007W   YGL026C    gene neighborhood (14) gene cooccurence. confidence: medium. previously annotated: no.
+Q0085   YBR039W    gene neighborhood (13) gene cooccurence. confidence: medium. previously annotated: yes.
+Q0085   YDR298C    gene neighborhood (13) gene cooccurence. confidence: medium. previously annotated: yes.
+Q0085   YBL099W    gene neighborhood (13) gene cooccurence. confidence: medium. previously annotated: yes.
+Q0085   YDL004W    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: yes.
+YCL018W   YGL009C    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YJL130C   YOR303W    gene neighborhood (11) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YKL182W   YER061C    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+YGL009C   YIL094C    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YER061C   YOR221C    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+Q0085   YJR121W    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: yes.
+YOR202W   YIL020C    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YER061C   YPL231W    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+YIL020C   YBR248C    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YOR202W   YBR248C    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YGL009C   YOR136W    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YOR303W   YJR109C    gene neighborhood (11) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: yes.
+YJL130C   YJR109C    gene neighborhood (11) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YBR127C   YDL185W    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YGL009C   YNL037C    gene neighborhood (12) gene cooccurence. confidence: medium. previously annotated: no.
+YPL231W   YOR221C    gene neighborhood (10) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: no.
+YBR127C   YOR332W    gene neighborhood (11) gene cooccurence. confidence: medium. previously annotated: yes.
+YDR487C   YOL143C    gene neighborhood (10) gene cooccurence. confidence: medium. previously annotated: no.
+YCL030C   YBR248C    gene neighborhood (10) gene cooccurence. confidence: medium. previously annotated: no.
+YBR127C   YEL051W    gene neighborhood (10) gene cooccurence. confidence: medium. previously annotated: yes.
+YDR408C   YGL234W    gene neighborhood (10) gene cooccurence. confidence: medium. previously annotated: no.
+YHR033W   YOR323C    gene neighborhood (10) gene cooccurence. confidence: medium. previously annotated: no.
+Q0045   Q0275    gene neighborhood (8) gene fusion (2) gene cooccurence. confidence: medium. previously annotated: yes.
+Q0045   Q0250    gene neighborhood (10) gene cooccurence. confidence: medium. previously annotated: yes.
+YDR300C   YOR323C    gene neighborhood (10) gene cooccurence. confidence: medium. previously annotated: no.
+YKR069W   YBR213W    gene neighborhood (2) gene fusion (8) gene cooccurence. confidence: medium. previously annotated: no.
+Q0250   Q0275    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: yes.
+YCL030C   YIL020C    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: no.
+YBR127C   YOR270C    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: yes.
+YDL185W   YOR270C    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: no.
+YMR054W   YDL185W    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: no.
+YMR054W   YOR332W    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: yes.
+YBR127C   YMR054W    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: yes.
+YCL030C   YER055C    gene neighborhood (9) gene cooccurence. confidence: medium. previously annotated: no.
+YDR127W   YGL148W    gene neighborhood (8) gene cooccurence. confidence: medium. previously annotated: no.
+YBR153W   YOL143C    gene neighborhood (8) gene cooccurence. confidence: medium. previously annotated: no.
+YAR015W   YGR061C    gene neighborhood (8) gene cooccurence. confidence: medium. previously annotated: no.
+YDL185W   YGR020C    gene neighborhood (8) gene cooccurence. confidence: medium. previously annotated: no.
+YBR127C   YGR020C    gene neighborhood (8) gene cooccurence. confidence: medium. previously annotated: yes.
+YCR053W   YJR139C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YOR278W   YDL205C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YBR256C   YOL066C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YMR054W   YLR447C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: yes.
+YBL033C   YOL066C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YDL185W   YLR447C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YNR057C   YNR058W    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YBR256C   YBR153W    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YBR153W   YDR487C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YER042W   YCL033C    gene fusion (6) gene cooccurence. confidence: medium. previously annotated: no.
+YMR054W   YEL051W    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: yes.
+YOR202W   YER055C    gene neighborhood (7) gene cooccurence. confidence: medium. previously annotated: no.
+YDL168W   YJL068C    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YOR108W   YGL009C    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YER141W   YPL172C    gene neighborhood (5) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YMR054W   YGR020C    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: yes.
+YIL145C   YBR176W    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YGL009C   YNL104C    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YLR438W   YER069W    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YDL182W   YGL009C    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YER055C   YBR248C    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YER055C   YIL020C    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YGL009C   YDL131W    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YGR019W   YER069W    gene neighborhood (6) gene cooccurence. confidence: medium. previously annotated: no.
+YGR286C   YNR057C    gene neighborhood (5) gene cooccurence. confidence: medium. previously annotated: no.
+Q0250   YPL172C    gene neighborhood (5) gene cooccurence. confidence: medium. previously annotated: no.
+YDR127W   YMR229C    gene neighborhood (5) gene cooccurence. confidence: medium. previously annotated: no.
+Q0275   YPL172C    gene neighborhood (5) gene cooccurence. confidence: medium. previously annotated: no.
+YDR047W   YOR176W    gene neighborhood (5) gene cooccurence. confidence: medium. previously annotated: no.
+YMR300C   YGL234W    gene neighborhood (5) gene cooccurence. confidence: medium. previously annotated: no.
+Q0045   YPL172C    gene neighborhood (5) gene cooccurence. confidence: medium. previously annotated: no.
+YLR355C   YGL009C    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YJR016C    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YML106W   YEL021W    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YJL130C   YEL021W    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YLR028C   YDR408C    gene neighborhood (3) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YMR271C   YEL021W    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YNR016C   YPL231W    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YNL256W   YER168C    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YMR300C   YAR015W    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YMR300C   YGR061C    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YMR120C   YDR408C    gene neighborhood (3) gene fusion (1) gene cooccurence. confidence: medium. previously annotated: no.
+YJL130C   YKL216W    gene neighborhood (4) gene cooccurence. confidence: medium. previously annotated: no.
+YOR128C   YGL234W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YGR286C   YNR058W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YGL234W   YAR015W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YDL205C   YGL040C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YDR408C   YGR061C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YNL104C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YER174C   YAL046C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YDL182W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YGL009C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YDL131W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YDR538W   YDR539W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YOR108W   YCL009C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YML126C   YML075C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YML126C   YLR450W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YEL021W   YKL216W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YMR300C   YDR408C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YAL046C   YDR098C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YPL059W   YAL046C    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YPL059W   YGL220W    gene neighborhood (3) gene cooccurence. confidence: medium. previously annotated: no.
+YML106W   YKL216W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YOR278W   YGL040C    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YNL316C   YIL116W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YOR128C   YAR015W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YKL184W   YHR018C    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YGR144W   YOR312C    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YLR359W   YGL234W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YLR359W   YOR128C    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YCL018W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YMR242C   YGR144W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YIL094C    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YOR136W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YCL009C   YNL037C    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YNR016C   YOR221C    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YNR016C   YKL182W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YMR271C   YKL216W    gene neighborhood (2) gene cooccurence. confidence: medium. previously annotated: no.
+YOR040W   YKR087C    gene cooccurence. confidence: low. previously annotated: no.
+YNR016C   YDL141W    gene cooccurence. confidence: low. previously annotated: no.
+YCL018W   YER069W    gene cooccurence. confidence: low. previously annotated: no.
+YBR227C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YER090W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YJR117W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YHR018C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YLR143W   YGR012W    gene cooccurence. confidence: low. previously annotated: no.
+YPR006C   YIR031C    gene cooccurence. confidence: low. previously annotated: no.
+YLR143W   YGR155W    gene cooccurence. confidence: low. previously annotated: no.
+YPR060C   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YMR242C    gene cooccurence. confidence: low. previously annotated: no.
+YIL094C   YER069W    gene cooccurence. confidence: low. previously annotated: no.
+YPR060C   YER090W    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YGR061C    gene cooccurence. confidence: low. previously annotated: no.
+YGR155W   YER057C    gene cooccurence. confidence: low. previously annotated: no.
+YHR018C   YOL140W    gene cooccurence. confidence: low. previously annotated: no.
+YGR144W   YNL075W    gene cooccurence. confidence: low. previously annotated: no.
+YGR144W   YHR088W    gene cooccurence. confidence: low. previously annotated: no.
+YOR241W   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YIL020C   YHR018C    gene cooccurence. confidence: low. previously annotated: no.
+YOR136W   YER069W    gene cooccurence. confidence: low. previously annotated: no.
+YLR359W   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YLR359W   YEL021W    gene cooccurence. confidence: low. previously annotated: no.
+YLR359W   YGR061C    gene cooccurence. confidence: low. previously annotated: no.
+YLL041C   YGR244C    gene cooccurence. confidence: low. previously annotated: no.
+YGR012W   YER057C    gene cooccurence. confidence: low. previously annotated: no.
+YGR012W   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YGR012W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YGR234W   YJR137C    gene cooccurence. confidence: low. previously annotated: no.
+YMR208W   YLR450W    gene cooccurence. confidence: low. previously annotated: no.
+YMR208W   YML126C    gene cooccurence. confidence: low. previously annotated: no.
+YMR208W   YML075C    gene cooccurence. confidence: low. previously annotated: no.
+YLR438W   YOL058W    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YKL184W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YKR087C    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YJR117W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YER090W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YER090W   YGR155W    gene cooccurence. confidence: low. previously annotated: no.
+YML059C   YOL114C    gene cooccurence. confidence: low. previously annotated: no.
+YER090W   YGR012W    gene cooccurence. confidence: low. previously annotated: no.
+YER090W   YDR272W    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YOR128C    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YER069W    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YLR438W    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YOL140W    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YOR040W    gene cooccurence. confidence: low. previously annotated: no.
+YNL037C   YER069W    gene cooccurence. confidence: low. previously annotated: no.
+YNR033W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YMR113W   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YOR142W   YLL041C    gene cooccurence. confidence: low. previously annotated: no.
+YBR208C   YDL141W    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YOR312C    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YDR272W    gene cooccurence. confidence: low. previously annotated: no.
+YBR166C   YDR354W    gene cooccurence. confidence: low. previously annotated: no.
+YMR229C   YJR017C    gene cooccurence. confidence: low. previously annotated: no.
+YGR155W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YKL132C   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YGR155W   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YGR019W   YGL009C    gene cooccurence. confidence: low. previously annotated: no.
+YGR019W   YOL058W    gene cooccurence. confidence: low. previously annotated: no.
+YGR019W   YHR018C    gene cooccurence. confidence: low. previously annotated: no.
+YIR031C   YER065C    gene cooccurence. confidence: low. previously annotated: no.
+YNL117W   YER065C    gene cooccurence. confidence: low. previously annotated: no.
+YNL117W   YPR006C    gene cooccurence. confidence: low. previously annotated: no.
+YNL075W   YOR312C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YDR127W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YBR166C   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YIL051C   YGR012W    gene cooccurence. confidence: low. previously annotated: no.
+YGL026C   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YBR227C    gene cooccurence. confidence: low. previously annotated: no.
+YIL051C   YGR155W    gene cooccurence. confidence: low. previously annotated: no.
+YHR176W   YHR007C    gene cooccurence. confidence: low. previously annotated: no.
+YHR176W   YDR402C    gene cooccurence. confidence: low. previously annotated: no.
+YHR176W   YMR015C    gene cooccurence. confidence: low. previously annotated: no.
+YOR312C   YHR088W    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YJR017C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YER141W   Q0045    gene cooccurence. confidence: low. previously annotated: no.
+YER141W   Q0275    gene cooccurence. confidence: low. previously annotated: no.
+YMR242C   YNL075W    gene cooccurence. confidence: low. previously annotated: no.
+YMR242C   YHR088W    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YMR300C   YOR128C    gene cooccurence. confidence: low. previously annotated: no.
+YMR300C   YLR359W    gene cooccurence. confidence: low. previously annotated: no.
+YNR029C   YJR137C    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YOR128C    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YCR073W-A  gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YGR248W    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YBR227C    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YOL059W    gene cooccurence. confidence: low. previously annotated: no.
+YKL211C   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YKL211C   YJR016C    gene cooccurence. confidence: low. previously annotated: no.
+YBR256C   YIL145C    gene cooccurence. confidence: low. previously annotated: no.
+YBR256C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YLL027W   YJR137C    gene cooccurence. confidence: low. previously annotated: no.
+YLL027W   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YLL027W   YGR255C    gene cooccurence. confidence: low. previously annotated: no.
+YLL027W   YGR175C    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YLR239C    gene cooccurence. confidence: low. previously annotated: no.
+YBR256C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YLL027W    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YPR067W    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YIL125W    gene cooccurence. confidence: low. previously annotated: no.
+YPR062W   YOR196C    gene cooccurence. confidence: low. previously annotated: no.
+YLL027W   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YHR047C   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YHR047C   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YHR047C   YJL068C    gene cooccurence. confidence: low. previously annotated: no.
+YHR047C   YOR128C    gene cooccurence. confidence: low. previously annotated: no.
+YLL027W   YJL035C    gene cooccurence. confidence: low. previously annotated: no.
+YLL027W   YBL098W    gene cooccurence. confidence: low. previously annotated: no.
+YOR330C   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YOL058W   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YOL058W   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YOL058W   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YHR088W   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YDL022W   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YNL117W   YLL057C    gene cooccurence. confidence: low. previously annotated: no.
+YNL117W   YOR251C    gene cooccurence. confidence: low. previously annotated: no.
+YCR053W   YDR354W    gene cooccurence. confidence: low. previously annotated: no.
+YCR053W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YCR053W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YCR053W   YOL140W    gene cooccurence. confidence: low. previously annotated: no.
+YCR053W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YER069W    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YLR438W    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YGR019W    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YIL116W    gene cooccurence. confidence: low. previously annotated: no.
+YCL009C   YOL140W    gene cooccurence. confidence: low. previously annotated: no.
+YCL018W   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YCL018W   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YCL018W   YCL030C    gene cooccurence. confidence: low. previously annotated: no.
+YCL018W   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YCL018W   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YOL071W   YDR035W    gene cooccurence. confidence: low. previously annotated: no.
+YOL071W   YOL008W    gene cooccurence. confidence: low. previously annotated: no.
+YOL071W   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YOL071W   YBR249C    gene cooccurence. confidence: low. previously annotated: no.
+YNL141W   YLL057C    gene cooccurence. confidence: low. previously annotated: no.
+YNL207W   YPL211W    gene cooccurence. confidence: low. previously annotated: no.
+YNL207W   YLL035W    gene cooccurence. confidence: low. previously annotated: no.
+YDL178W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YDL178W   YIL010W    gene cooccurence. confidence: low. previously annotated: no.
+YOR196C   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YOR196C   YJL035C    gene cooccurence. confidence: low. previously annotated: no.
+YOR196C   YLL027W    gene cooccurence. confidence: low. previously annotated: no.
+YER061C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YHR018C    gene cooccurence. confidence: low. previously annotated: no.
+YHR013C   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YHR013C   YGR061C    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YOL058W    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YCL030C    gene cooccurence. confidence: low. previously annotated: no.
+YLR028C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YKL150W   YFR025C    gene cooccurence. confidence: low. previously annotated: no.
+YKL216W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YJR008W   YPR118W    gene cooccurence. confidence: low. previously annotated: no.
+YDL235C   YMR099C    gene cooccurence. confidence: low. previously annotated: no.
+YNL142W   YJR111C    gene cooccurence. confidence: low. previously annotated: no.
+YNL075W   YPL211W    gene cooccurence. confidence: low. previously annotated: no.
+YNL075W   YGL030W    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YNR034W    gene cooccurence. confidence: low. previously annotated: no.
+YGR267C   YBL045C    gene cooccurence. confidence: low. previously annotated: no.
+YNL075W   YLL035W    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YCR073W-A  gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YGR248W    gene cooccurence. confidence: low. previously annotated: no.
+YGR267C   YKL182W    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YOL114C    gene cooccurence. confidence: low. previously annotated: no.
+YNL075W   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YNL241C    gene cooccurence. confidence: low. previously annotated: no.
+YER168C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YGR267C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YMR310C   YGR144W    gene cooccurence. confidence: low. previously annotated: no.
+YGR267C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YGR267C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YGR267C   YLR163C    gene cooccurence. confidence: low. previously annotated: no.
+YJL153C   YJL125C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YCR073W-A  gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YGR248W    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YBR227C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YNL241C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YOR274W   YJR017C    gene cooccurence. confidence: low. previously annotated: no.
+YNL220W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YNL220W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YNL220W   YGR061C    gene cooccurence. confidence: low. previously annotated: no.
+YER081W   YNL200C    gene cooccurence. confidence: low. previously annotated: no.
+YER081W   YDL238C    gene cooccurence. confidence: low. previously annotated: no.
+YHR132C   YKL026C    gene cooccurence. confidence: low. previously annotated: no.
+YHR132C   YBR244W    gene cooccurence. confidence: low. previously annotated: no.
+YHR132C   YMR034C    gene cooccurence. confidence: low. previously annotated: no.
+YHR132C   YIR037W    gene cooccurence. confidence: low. previously annotated: no.
+YER081W   YEL015W    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YJR137C    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YGR255C    gene cooccurence. confidence: low. previously annotated: no.
+YER081W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YER081W   YCR053W    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YGR175C    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YOR196C    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YLR239C    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YJL035C    gene cooccurence. confidence: low. previously annotated: no.
+YHR024C   YGR267C    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YIL125W    gene cooccurence. confidence: low. previously annotated: no.
+YPR067W   YBL098W    gene cooccurence. confidence: low. previously annotated: no.
+YGR175C   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YGR175C   YOL008W    gene cooccurence. confidence: low. previously annotated: no.
+YNL321W   YPL273W    gene cooccurence. confidence: low. previously annotated: no.
+YNL321W   YMR321C    gene cooccurence. confidence: low. previously annotated: no.
+YLL062C   YNL321W    gene cooccurence. confidence: low. previously annotated: no.
+YLL062C   YDL128W    gene cooccurence. confidence: low. previously annotated: no.
+YNL200C   YIL074C    gene cooccurence. confidence: low. previously annotated: no.
+YDR044W   YOR001W    gene cooccurence. confidence: low. previously annotated: no.
+YOR126C   YOR346W    gene cooccurence. confidence: low. previously annotated: no.
+YOR126C   YDR419W    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YCL030C    gene cooccurence. confidence: low. previously annotated: no.
+YGL009C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YGR007W   YML126C    gene cooccurence. confidence: low. previously annotated: no.
+YJL045W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YJL045W   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YJR019C   YOR001W    gene cooccurence. confidence: low. previously annotated: no.
+YJR019C   YGL067W    gene cooccurence. confidence: low. previously annotated: no.
+YOR108W   YIL116W    gene cooccurence. confidence: low. previously annotated: no.
+YOR243C   YGL101W    gene cooccurence. confidence: low. previously annotated: no.
+YOR243C   YBR242W    gene cooccurence. confidence: low. previously annotated: no.
+YIL094C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YIL094C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YKL088W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YGR248W   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YDL174C   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YDL174C   YIL010W    gene cooccurence. confidence: low. previously annotated: no.
+YBR035C   YKL157W    gene cooccurence. confidence: low. previously annotated: no.
+YBR035C   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YBR035C   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YBR035C   YNL045W    gene cooccurence. confidence: low. previously annotated: no.
+YKL184W   YDR354W    gene cooccurence. confidence: low. previously annotated: no.
+YKL184W   YOL058W    gene cooccurence. confidence: low. previously annotated: no.
+YKL184W   YJR109C    gene cooccurence. confidence: low. previously annotated: no.
+YEL015W   YIL074C    gene cooccurence. confidence: low. previously annotated: no.
+YKL184W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YKL184W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YBR227C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YBR227C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YGR010W   YLR180W    gene cooccurence. confidence: low. previously annotated: no.
+YGR202C   YML126C    gene cooccurence. confidence: low. previously annotated: no.
+YJR051W   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YJR051W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YJR117W   YEL021W    gene cooccurence. confidence: low. previously annotated: no.
+YJR117W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YOR142W   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YJL035C   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YJL035C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YOR111W   YML110C    gene cooccurence. confidence: low. previously annotated: no.
+YJL035C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YER096W   YLR377C    gene cooccurence. confidence: low. previously annotated: no.
+YLR017W   YPR118W    gene cooccurence. confidence: low. previously annotated: no.
+YPR035W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YPR035W   YGL091C    gene cooccurence. confidence: low. previously annotated: no.
+YMR229C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YMR229C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YMR229C   YNL241C    gene cooccurence. confidence: low. previously annotated: no.
+YDL168W   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YGL026C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YGL026C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YGL026C   YJR016C    gene cooccurence. confidence: low. previously annotated: no.
+YGL026C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YPR006C   YLL057C    gene cooccurence. confidence: low. previously annotated: no.
+YPR006C   YOR251C    gene cooccurence. confidence: low. previously annotated: no.
+YEL047C   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YER065C   YLL057C    gene cooccurence. confidence: low. previously annotated: no.
+YOR323C   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YOR323C   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YOR323C   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YPR051W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YPR051W   YGR061C    gene cooccurence. confidence: low. previously annotated: no.
+YPL009C   YPL207W    gene cooccurence. confidence: low. previously annotated: no.
+YIL125W   YOR196C    gene cooccurence. confidence: low. previously annotated: no.
+YIL125W   YLR239C    gene cooccurence. confidence: low. previously annotated: no.
+YIL125W   YLL027W    gene cooccurence. confidence: low. previously annotated: no.
+YIL125W   YJL035C    gene cooccurence. confidence: low. previously annotated: no.
+YEL071W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YEL071W   YIL010W    gene cooccurence. confidence: low. previously annotated: no.
+YBL098W   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YBL098W   YOL008W    gene cooccurence. confidence: low. previously annotated: no.
+YMR217W   YKL088W    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YER090W    gene cooccurence. confidence: low. previously annotated: no.
+YFR025C   YML087C    gene cooccurence. confidence: low. previously annotated: no.
+YIL145C   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YKL151C    gene cooccurence. confidence: low. previously annotated: no.
+YOR303W   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YKL184W    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YLR359W    gene cooccurence. confidence: low. previously annotated: no.
+YOR303W   YER090W    gene cooccurence. confidence: low. previously annotated: no.
+YJL130C   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YOR303W   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YOR303W   YKL184W    gene cooccurence. confidence: low. previously annotated: no.
+YOR303W   YLR359W    gene cooccurence. confidence: low. previously annotated: no.
+YOR303W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YKL157W   YJL068C    gene cooccurence. confidence: low. previously annotated: no.
+YBR166C   YEL047C    gene cooccurence. confidence: low. previously annotated: no.
+YBR166C   YCR005C    gene cooccurence. confidence: low. previously annotated: no.
+YBR166C   YML086C    gene cooccurence. confidence: low. previously annotated: no.
+YBR166C   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YBR166C   YKL148C    gene cooccurence. confidence: low. previously annotated: no.
+YOL102C   YBR022W    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YNL241C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YBR227C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YJR017C    gene cooccurence. confidence: low. previously annotated: no.
+YOL114C   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YML120C   YIL155C    gene cooccurence. confidence: low. previously annotated: no.
+YCL057W   YDR035W    gene cooccurence. confidence: low. previously annotated: no.
+YCL057W   YBR249C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YER057C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YIL145C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YOR323C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YKL132C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YKL182W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YGR012W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YNL218W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YIL051C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YLR281C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YOL114C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YBR256C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YER168C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YDR502C    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YLR180W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YGR155W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YOR241W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YNL256W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YMR113W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YHR033W    gene cooccurence. confidence: low. previously annotated: no.
+YBL036C   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YKL141W   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YDR047W   YDR232W    gene cooccurence. confidence: low. previously annotated: no.
+YDR047W   YML110C    gene cooccurence. confidence: low. previously annotated: no.
+YDR047W   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YDR047W   YMR296C    gene cooccurence. confidence: low. previously annotated: no.
+YDR047W   YDR062W    gene cooccurence. confidence: low. previously annotated: no.
+YIL116W   YGL009C    gene cooccurence. confidence: low. previously annotated: no.
+YNL045W   YJL068C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YNR034W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YIL053W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YIL116W   YGR019W    gene cooccurence. confidence: low. previously annotated: no.
+YIL116W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YIL116W   YCR053W    gene cooccurence. confidence: low. previously annotated: no.
+YIL116W   YDL131W    gene cooccurence. confidence: low. previously annotated: no.
+YIL116W   YLR438W    gene cooccurence. confidence: low. previously annotated: no.
+YIL116W   YOL140W    gene cooccurence. confidence: low. previously annotated: no.
+YLR180W   YLR328W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YKL182W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YCR073W-A  gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YGR248W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YLR281C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YOL114C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YBR256C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YER062C    gene cooccurence. confidence: low. previously annotated: no.
+YIL083C   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YIL083C   YMR217W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YHR043C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YDR127W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YJR111C   YGR121C    gene cooccurence. confidence: low. previously annotated: no.
+YNL256W   YHR044C    gene cooccurence. confidence: low. previously annotated: no.
+YIL051C   YBR176W    gene cooccurence. confidence: low. previously annotated: no.
+YOL066C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YOL066C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YOL066C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YOL066C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YOR176W   YML110C    gene cooccurence. confidence: low. previously annotated: no.
+YMR190C   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YDL236W   YDR197W    gene cooccurence. confidence: low. previously annotated: no.
+YDL236W   YHR063C    gene cooccurence. confidence: low. previously annotated: no.
+YOR232W   YOL095C    gene cooccurence. confidence: low. previously annotated: no.
+YOR232W   YJL092W    gene cooccurence. confidence: low. previously annotated: no.
+YDL236W   YDL144C    gene cooccurence. confidence: low. previously annotated: no.
+YHR033W   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YDL171C   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YEL021W   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YEL021W   YDR354W    gene cooccurence. confidence: low. previously annotated: no.
+YEL021W   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YEL021W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YEL021W   YCR053W    gene cooccurence. confidence: low. previously annotated: no.
+YEL021W   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YHR033W   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YER168C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YDR127W    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YNL241C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YKL182W    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YNL123W    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YBR227C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YJR017C    gene cooccurence. confidence: low. previously annotated: no.
+YIL137C   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YLR281C   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YIL137C   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YIL137C   YJL068C    gene cooccurence. confidence: low. previously annotated: no.
+YNR029C   YIL145C    gene cooccurence. confidence: low. previously annotated: no.
+YDL171C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YDL171C   YDR032C    gene cooccurence. confidence: low. previously annotated: no.
+YDL171C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YDL171C   YCR004C    gene cooccurence. confidence: low. previously annotated: no.
+YDL171C   YCL030C    gene cooccurence. confidence: low. previously annotated: no.
+YDL171C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YLR106C   YDR171W    gene cooccurence. confidence: low. previously annotated: no.
+YML106W   YDR272W    gene cooccurence. confidence: low. previously annotated: no.
+YNR034W   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YNR034W   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YNR034W   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YDR354W    gene cooccurence. confidence: low. previously annotated: no.
+YOR278W   YLL041C    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YML106W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YEL021W    gene cooccurence. confidence: low. previously annotated: no.
+YLL035W   YHR088W    gene cooccurence. confidence: low. previously annotated: no.
+YLL035W   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YDR300C   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YKL148C   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YIL010W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YIL010W   YML086C    gene cooccurence. confidence: low. previously annotated: no.
+YDR300C   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YDR300C   YBL036C    gene cooccurence. confidence: low. previously annotated: no.
+YDR300C   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YMR271C    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YCR053W    gene cooccurence. confidence: low. previously annotated: no.
+YOR040W   YLR359W    gene cooccurence. confidence: low. previously annotated: no.
+YCR073W-A YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YLR143W   YBL036C    gene cooccurence. confidence: low. previously annotated: no.
+YLR143W   YBR176W    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YNL207W    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YPL211W    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YNL075W    gene cooccurence. confidence: low. previously annotated: no.
+YPR060C   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YML021C   YNL073W    gene cooccurence. confidence: low. previously annotated: no.
+YML021C   YDR037W    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YKL069W    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YHR013C    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YKL157W    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YPR051W    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YNL045W    gene cooccurence. confidence: low. previously annotated: no.
+YOR128C   YIL137C    gene cooccurence. confidence: low. previously annotated: no.
+YBR052C   YDL171C    gene cooccurence. confidence: low. previously annotated: no.
+YDR076W   YJR008W    gene cooccurence. confidence: low. previously annotated: no.
+YDR076W   YER043C    gene cooccurence. confidence: low. previously annotated: no.
+YPR001W   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YJR139C   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YJR139C   YOL140W    gene cooccurence. confidence: low. previously annotated: no.
+YJR139C   YKL211C    gene cooccurence. confidence: low. previously annotated: no.
+YGR144W   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YGR144W   YNL207W    gene cooccurence. confidence: low. previously annotated: no.
+YGR144W   YGR283C    gene cooccurence. confidence: low. previously annotated: no.
+YML125C   YFR025C    gene cooccurence. confidence: low. previously annotated: no.
+YOR136W   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YOR136W   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YOR136W   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YOR136W   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YNR001C   YBR166C    gene cooccurence. confidence: low. previously annotated: no.
+YLR359W   YJR109C    gene cooccurence. confidence: low. previously annotated: no.
+YLR359W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YIL155C   YDL085W    gene cooccurence. confidence: low. previously annotated: no.
+YLR359W   YDR272W    gene cooccurence. confidence: low. previously annotated: no.
+YLL041C   YDL205C    gene cooccurence. confidence: low. previously annotated: no.
+YLL041C   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YHR163W   YER168C    gene cooccurence. confidence: low. previously annotated: no.
+YHR163W   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YHR163W   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YHR163W   YNL256W    gene cooccurence. confidence: low. previously annotated: no.
+YHR163W   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YGR012W   YIL010W    gene cooccurence. confidence: low. previously annotated: no.
+YER174C   YDL120W    gene cooccurence. confidence: low. previously annotated: no.
+YGR012W   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YER174C   YGL018C    gene cooccurence. confidence: low. previously annotated: no.
+YER174C   YKL134C    gene cooccurence. confidence: low. previously annotated: no.
+YER174C   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YER174C   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YLR207W   YLR377C    gene cooccurence. confidence: low. previously annotated: no.
+YKR072C   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YKR072C   YMR217W    gene cooccurence. confidence: low. previously annotated: no.
+YMR321C   YDL128W    gene cooccurence. confidence: low. previously annotated: no.
+YGR244C   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YDL120W   YGL220W    gene cooccurence. confidence: low. previously annotated: no.
+YDL120W   YGL018C    gene cooccurence. confidence: low. previously annotated: no.
+YDL120W   YAL046C    gene cooccurence. confidence: low. previously annotated: no.
+YDL120W   YDR098C    gene cooccurence. confidence: low. previously annotated: no.
+YGR255C   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YGR255C   YOL008W    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YIL145C    gene cooccurence. confidence: low. previously annotated: no.
+YPR131C   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YPR131C   YGR061C    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YOL114C    gene cooccurence. confidence: low. previously annotated: no.
+YPR131C   YOR128C    gene cooccurence. confidence: low. previously annotated: no.
+YAL046C   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YAL046C   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YDR036C   YPL172C    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YPL231W   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YMR190C   YKL134C    gene cooccurence. confidence: low. previously annotated: no.
+YOR001W   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YOR184W   YLR059C    gene cooccurence. confidence: low. previously annotated: no.
+YOR001W   YOL064C    gene cooccurence. confidence: low. previously annotated: no.
+YLR438W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YGL220W   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YGL220W   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YLR142W   YMR234W    gene cooccurence. confidence: low. previously annotated: no.
+YLR142W   YNL036W    gene cooccurence. confidence: low. previously annotated: no.
+YER055C   YIL094C    gene cooccurence. confidence: low. previously annotated: no.
+YER055C   YNL037C    gene cooccurence. confidence: low. previously annotated: no.
+YER055C   YHR018C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YLR028C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YHR018C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YLR438W    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YOL058W    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YGR019W    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YMR120C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YCL030C    gene cooccurence. confidence: low. previously annotated: no.
+YBL061C   YLR377C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YNL316C   YOL140W    gene cooccurence. confidence: low. previously annotated: no.
+YNL036W   YMR234W    gene cooccurence. confidence: low. previously annotated: no.
+YDR098C   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YDR098C   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YNL036W   YMR226C    gene cooccurence. confidence: low. previously annotated: no.
+YOL008W   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YLR011W   YOR346W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YDR354W    gene cooccurence. confidence: low. previously annotated: no.
+YLR011W   YDR419W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YEL021W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YMR271C    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YDR272W   YCR053W    gene cooccurence. confidence: low. previously annotated: no.
+YER042W   YNL036W    gene cooccurence. confidence: low. previously annotated: no.
+YIL043C   YFR025C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YLR059C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YLL027W    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YER174C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YOL008W    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YOL114C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YGL220W    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YAL046C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YDR098C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YOR001W    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YJL035C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YKL134C    gene cooccurence. confidence: low. previously annotated: no.
+YLR239C   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YML059C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YML059C   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YER090W   YEL021W    gene cooccurence. confidence: low. previously annotated: no.
+YML059C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YML059C   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YER090W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YML059C   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YDR256C   YKL027W    gene cooccurence. confidence: low. previously annotated: no.
+YDR256C   YHR003C    gene cooccurence. confidence: low. previously annotated: no.
+YOR221C   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YPL059W    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YER174C    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YAL046C    gene cooccurence. confidence: low. previously annotated: no.
+YLR299W   YNR029C    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YER168C    gene cooccurence. confidence: low. previously annotated: no.
+YLR284C   YPL172C    gene cooccurence. confidence: low. previously annotated: no.
+YLR355C   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YLR355C   YKL184W    gene cooccurence. confidence: low. previously annotated: no.
+YER057C   YBR176W    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YLR355C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YIL033C    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YNR033W   YEL021W    gene cooccurence. confidence: low. previously annotated: no.
+YLR355C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YNL037C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YLR355C   YCL030C    gene cooccurence. confidence: low. previously annotated: no.
+YLR355C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YOL008W    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YDR098C    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YGR255C    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YGR175C    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YBL098W    gene cooccurence. confidence: low. previously annotated: no.
+YNL037C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YOL096C   YGL220W    gene cooccurence. confidence: low. previously annotated: no.
+YNR033W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YER043C   YJL125C    gene cooccurence. confidence: low. previously annotated: no.
+YER043C   YOR356W    gene cooccurence. confidence: low. previously annotated: no.
+YDR354W   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YDR354W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YHR088W    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YLL035W    gene cooccurence. confidence: low. previously annotated: no.
+YGL050W   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YDR502C   YLR328W    gene cooccurence. confidence: low. previously annotated: no.
+YDR502C   YKL060C    gene cooccurence. confidence: low. previously annotated: no.
+YKL182W   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YDR502C   YGR010W    gene cooccurence. confidence: low. previously annotated: no.
+YBR072W   YLR106C    gene cooccurence. confidence: low. previously annotated: no.
+YGL018C   YAL046C    gene cooccurence. confidence: low. previously annotated: no.
+YGL018C   YDR098C    gene cooccurence. confidence: low. previously annotated: no.
+YGL018C   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YGL018C   YGL220W    gene cooccurence. confidence: low. previously annotated: no.
+YNL123W   YOR330C    gene cooccurence. confidence: low. previously annotated: no.
+YDL238C   YIL074C    gene cooccurence. confidence: low. previously annotated: no.
+YNL123W   YBR227C    gene cooccurence. confidence: low. previously annotated: no.
+YNL123W   YOL114C    gene cooccurence. confidence: low. previously annotated: no.
+YGR207C   YDR019C    gene cooccurence. confidence: low. previously annotated: no.
+YGR207C   YGL205W    gene cooccurence. confidence: low. previously annotated: no.
+YNL123W   YER168C    gene cooccurence. confidence: low. previously annotated: no.
+YNL123W   YMR229C    gene cooccurence. confidence: low. previously annotated: no.
+YNL123W   YOR274W    gene cooccurence. confidence: low. previously annotated: no.
+YDR248C   YKL134C    gene cooccurence. confidence: low. previously annotated: no.
+YDR248C   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YGR155W   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YOR054C   YGL234W    gene cooccurence. confidence: low. previously annotated: no.
+YOR054C   YMR217W    gene cooccurence. confidence: low. previously annotated: no.
+YCL030C   YIL094C    gene cooccurence. confidence: low. previously annotated: no.
+YGR155W   YIL010W    gene cooccurence. confidence: low. previously annotated: no.
+YOR202W   YIL094C    gene cooccurence. confidence: low. previously annotated: no.
+YGR019W   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YGR019W   YCR053W    gene cooccurence. confidence: low. previously annotated: no.
+YCL030C   YNL037C    gene cooccurence. confidence: low. previously annotated: no.
+YPL262W   YMR234W    gene cooccurence. confidence: low. previously annotated: no.
+YCL030C   YOR136W    gene cooccurence. confidence: low. previously annotated: no.
+YOR202W   YNL037C    gene cooccurence. confidence: low. previously annotated: no.
+YIR031C   YLL057C    gene cooccurence. confidence: low. previously annotated: no.
+YJR109C   YNR033W    gene cooccurence. confidence: low. previously annotated: no.
+YGR088W   YKL027W    gene cooccurence. confidence: low. previously annotated: no.
+YGR088W   YHR003C    gene cooccurence. confidence: low. previously annotated: no.
+YIL074C   YCR053W    gene cooccurence. confidence: low. previously annotated: no.
+YIL074C   YJR139C    gene cooccurence. confidence: low. previously annotated: no.
+YLR377C   YDL203C    gene cooccurence. confidence: low. previously annotated: no.
+YER141W   YMR015C    gene cooccurence. confidence: low. previously annotated: no.
+YMR145C   YIL155C    gene cooccurence. confidence: low. previously annotated: no.
+YOR180C   YPL172C    gene cooccurence. confidence: low. previously annotated: no.
+YPR138C   YJR111C    gene cooccurence. confidence: low. previously annotated: no.
+YER141W   YHR007C    gene cooccurence. confidence: low. previously annotated: no.
+YER141W   YDR402C    gene cooccurence. confidence: low. previously annotated: no.
+YMR242C   YPL211W    gene cooccurence. confidence: low. previously annotated: no.
+YMR242C   YGL030W    gene cooccurence. confidence: low. previously annotated: yes.
+YDR408C   YKL157W    gene cooccurence. confidence: low. previously annotated: no.
+YDR408C   YKL218C    gene cooccurence. confidence: low. previously annotated: no.
+YDR408C   YNL045W    gene cooccurence. confidence: low. previously annotated: no.
+YMR242C   YLL035W    gene cooccurence. confidence: low. previously annotated: no.
+YMR242C   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YDR408C   YIL167W    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YJR122W    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YAL046C    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YDR098C    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YDR035W    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YGL220W    gene cooccurence. confidence: low. previously annotated: no.
+YKL134C   YBR249C    gene cooccurence. confidence: low. previously annotated: no.
+YPL273W   YDL128W    gene cooccurence. confidence: low. previously annotated: no.
+YGR112W   YDL215C    gene cooccurence. confidence: low. previously annotated: no.
+YOR312C   YPL211W    gene cooccurence. confidence: low. previously annotated: no.
+YOR312C   YGL030W    gene cooccurence. confidence: low. previously annotated: yes.
+YGL030W   YHR088W    gene cooccurence. confidence: low. previously annotated: no.
+YGL030W   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YCL064C   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YOR312C   YLL035W    gene cooccurence. confidence: low. previously annotated: no.
+YGL252C   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YGL252C   YOR221C    gene cooccurence. confidence: low. previously annotated: no.
+YGL252C   YKL182W    gene cooccurence. confidence: low. previously annotated: no.
+YOR312C   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YER168C    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YPL231W    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YER061C    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YOL066C    gene cooccurence. confidence: low. previously annotated: no.
+YER086W   YDR408C    gene cooccurence. confidence: low. previously annotated: no.
+YDR127W   YML059C    gene cooccurence. confidence: low. previously annotated: no.
+YKL060C   YLR180W    gene cooccurence. confidence: low. previously annotated: no.
+YKR087C   YEL021W    gene cooccurence. confidence: low. previously annotated: no.
+YMR300C   YNL220W    gene cooccurence. confidence: low. previously annotated: no.
+YMR300C   YPR131C    gene cooccurence. confidence: low. previously annotated: no.
+YMR300C   YHR013C    gene cooccurence. confidence: low. previously annotated: no.
+YIL003W   YPR035W    gene cooccurence. confidence: low. previously annotated: no.
+YMR300C   YPR051W    gene cooccurence. confidence: low. previously annotated: no.
+YKR069W   YGL205W    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YOR202W    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YOL058W    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YBR248C    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YER055C    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YHR018C    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YCL030C    gene cooccurence. confidence: low. previously annotated: no.
+YMR120C   YIL020C    gene cooccurence. confidence: low. previously annotated: no.
+YNL218W   YMR226C    gene cooccurence. confidence: low. previously annotated: no.
+YJR122W   YLR059C    gene cooccurence. confidence: low. previously annotated: no.
+YJR122W   YOL008W    gene cooccurence. confidence: low. previously annotated: no.
+YJR122W   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YOR251C   YIR031C    gene cooccurence. confidence: low. previously annotated: no.
+YOR251C   YER065C    gene cooccurence. confidence: low. previously annotated: no.
+YJR122W   YBR035C    gene cooccurence. confidence: low. previously annotated: no.
+YJR122W   YEL052W    gene cooccurence. confidence: low. previously annotated: no.
+YJR122W   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YKR087C   YKL216W    gene cooccurence. confidence: low. previously annotated: no.
+YMR118C   YGL040C    gene cooccurence. confidence: low. previously annotated: no.
+YPL211W   YLL035W    gene cooccurence. confidence: low. previously annotated: no.
+YPL059W   YDL120W    gene cooccurence. confidence: low. previously annotated: no.
+YPL059W   YKL134C    gene cooccurence. confidence: low. previously annotated: no.
+YPL059W   YGL018C    gene cooccurence. confidence: low. previously annotated: no.
+YPL211W   YGL232W    gene cooccurence. confidence: low. previously annotated: no.
+YPL059W   YCL057W    gene cooccurence. confidence: low. previously annotated: no.
+YPL059W   YOL071W    gene cooccurence. confidence: low. previously annotated: no.
+YPL059W   YLR239C    gene cooccurence. confidence: low. previously annotated: no.
+YPR004C   YDR019C    gene cooccurence. confidence: low. previously annotated: no.
+YPR004C   YGL205W    gene cooccurence. confidence: low. previously annotated: no.
+YLR209C   YPR118W    gene cooccurence. confidence: low. previously annotated: no.

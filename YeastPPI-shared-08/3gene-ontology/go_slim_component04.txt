@@ -1,0 +1,31 @@
+!version: $Revision: 1.1 $
+!GO_slim_name: yeast go_slim
+!GO_slim_version: 1.0
+!GO_slim_date: Fri Sep 03 16:32:00 BST 2004
+!GO_slim_authors: SGD curators
+!GO_slim_author_contact: yeast-curator@genome.stanford.edu
+!cellular_component ; GO:0005575
+bud ; GO:0005933
+cell cortex ; GO:0005938
+cell wall ; GO:0005618
+cellular_component unknown ; GO:0008372
+chromosome ; GO:0005694
+cytoplasm ; GO:0005737
+cytoplasmic vesicle ; GO:0016023
+cytoskeleton ; GO:0005856
+endoplasmic reticulum ; GO:0005783 ; synonym:ER
+Golgi apparatus ; GO:0005794 ; synonym:Golgi complex ; synonym:Golgi ribbon
+microtubule organizing center ; GO:0005815 ; synonym:MTOC ; synonym:microtubule organizing centre
+mitochondrion ; GO:0005739
+mitochondrial membrane ; GO:0005740
+ribosome ; GO:0005840
+vacuole ; GO:0005773
+extracellular ; GO:0005576
+membrane ; GO:0016020
+endomembrane system ; GO:0012505
+plasma membrane ; GO:0005886 ; synonym:bacterial inner membrane ; synonym:cell membrane ; synonym:cytoplasmic membrane ; synonym:plasmalemma
+membrane fraction ; GO:0005624
+nucleus ; GO:0005634
+nucleolus ; GO:0005730
+peroxisome ; GO:0005777
+site of polarized growth ; GO:0030427
